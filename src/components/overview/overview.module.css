@@ -1,0 +1,71 @@
+.overviewWrapper {
+    background-color: #129d90;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    padding: 4% 6%;
+}
+
+.overviewWrapper h1 {
+    font-size: 60px;
+    font-weight: 300;
+    letter-spacing: 4px;
+    text-align: center;
+}
+
+.overviewWrapper hr {
+    width: 8%;
+    border: 2px solid white;
+    margin-bottom: 4%;
+}
+
+.overviewWrapper p {
+    font-size: 24px;
+    font-weight: 300;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 48px;
+    margin-top: 2%;
+}
+
+.overviewWrapper a {
+    color: white;
+    transition: ease 1s;
+}
+
+.overviewWrapper a:hover {
+    color: #e6e515;
+    text-decoration: none;
+}
+
+@media screen and (max-width: 1000px) {
+    .overviewWrapper p {
+        font-size: 20px;
+        line-height: 34px;
+    }
+}
+
+
+@media screen and (max-width: 800px) {
+    .overviewWrapper h1 {
+        font-size: 48px;
+    }
+    .overviewWrapper p {
+        font-size: 18px;
+        line-height: 30px;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .overviewWrapper {
+        padding: 8% 6%;
+    }
+    .overviewWrapper h1 {
+        font-size: 32px;
+    }
+    .overviewWrapper p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .overviewWrapper hr {
+        width: 15%;
+    }
+}

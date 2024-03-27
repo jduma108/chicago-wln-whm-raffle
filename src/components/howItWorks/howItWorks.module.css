@@ -1,0 +1,239 @@
+.howItWorksWrapper {
+    font-family: 'Oswald', sans-serif;
+    padding: 4% 6%;
+}
+
+.howItWorksWrapper a:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.howItWorksWrapper h1 {
+    font-size: 60px;
+    font-weight: 300;
+    letter-spacing: 4px;
+    color: #2aa7df;
+    text-align: center;
+}
+
+.titleHr {
+    width: 8%;
+    border: 2px solid #2aa7df;
+}
+
+.iconWrapper {
+    width: 100%;
+    margin: 4% auto 0;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.iconWrapper p{
+    font-size: 15px;
+    color: #222222;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 28px;
+    margin-top: 4%;
+}
+
+.fullWidthHr {
+    border: 0.75px solid #2aa7df;
+    width: 100%;
+    margin: 2% 0;
+}
+
+.icon {
+    width: 40%;
+    display: block;
+    margin: auto;
+}
+
+.browseWrapper, .raffleWrapper, .learnWrapper {
+    width: 40%;
+}
+
+.browseWrapper h3{
+    font-size: 32px;
+    margin-top: 2%;
+    color: #18b0c4;
+}
+
+.raffleWrapper h3{
+    font-size: 32px;
+    margin-top: 2%;
+    color: #129d90;
+}
+
+.raffleWrapper a{
+    color: #129d90;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.raffleWrapper a:hover{
+    color: #129d90;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.learnWrapper h3{
+    font-size: 32px;
+    margin-top: 2%;
+    color: #2aa7df;
+}
+
+.moreInfoWrapper {
+    width: 100%;
+    display: block;
+}
+
+.moreInfoWrapper h2 {
+    margin-bottom: 2%;
+}
+
+.bundles {
+    width: 25%;
+}
+
+.moreInfoWrapper h2, .bundles h2, .raffleDates {
+    font-size: 32px;
+    color: #2aa7df;
+}
+
+.raffleDates {
+    font-size: 32px;
+    color: #2aa7df;
+    text-align: center;
+    margin-top: 2%;
+}
+
+.moreInfoWrapper  ul, .bundles ul {
+    margin-top: 1%;
+}
+
+.moreInfoWrapper  ul li, .bundles ul li{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    color: #222222;
+    line-height: 32px;
+}
+
+.smallText {
+    font-size: 14px;
+    text-align: center;
+    color: #2aa7df;
+}
+
+.button {
+    display: block;
+    margin: 3% auto;
+    background-color: #2aa7df;
+    color: white;
+    font-size: 24px;
+    border-radius: 2px;
+    border: none;
+    padding: 1.5% 4%;
+}
+
+.disabledButton {
+    display: block;
+    margin: 3% auto 1%;
+    background-color: #D3D3D3;
+    color: white;
+    font-size: 24px;
+    border-radius: 2px;
+    border: none;
+    padding: 1.5% 4%;
+}
+
+.bold {
+    font-weight: 900;
+    color: #2aa7df;
+}
+
+@media screen and (max-width: 1200px) {
+    .bundles {
+        width: 35%
+    }
+}
+
+@media screen and (max-width: 830px) {
+    .howItWorksWrapper h1 {
+        font-size: 48px;
+    }
+    .iconWrapper {
+        display: block;
+        margin: auto;
+    }
+    .icon {
+        width: 20%;
+    }
+    .browseWrapper, .raffleWrapper, .learnWrapper {
+        width: 100%;
+        margin-top: 8%;
+    }
+    .browseWrapper h3, .raffleWrapper h3, .learnWrapper h3 {
+        font-size: 28px;
+    }
+    .iconWrapper p{
+        font-size: 16px;
+        margin-top: 2%;
+    }
+    .moreInfoWrapper {
+        clear: both;
+        display: block;
+    }
+    .moreInfoWrapper h2, .raffleDates{
+        font-size: 28px;
+        padding-top: 1%;
+    }
+    .moreInfoWrapper h3{
+        font-size: 24px;
+    }
+    .bundles ul li, .moreInfoWrapper ul li{
+        font-size: 16px;
+    }
+    .bundles {
+        width: 100%;
+    }
+    .button, .disabledButton {
+        margin: 6% auto;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .howItWorksWrapper {
+        padding: 8% 6%;
+    }
+    .howItWorksWrapper h1 {
+        font-size: 32px;
+    }
+    .titleHr {
+        width: 15%;
+    }
+    .browseWrapper h3, .raffleWrapper h3, .learnWrapper h3 {
+        font-size: 20px;
+    }
+    .moreInfoWrapper h2, .raffleDates{
+        font-size: 24px;
+    }
+    .moreInfoWrapper h3{
+        font-size: 20px;
+    }
+    .moreInfoWrapper ul li, .bundles ul li, .iconWrapper p{
+        font-size: 14px;
+    }
+    .button, .disabledButton {
+        margin: 8% auto;
+        font-size: 20px;
+    }
+    .fullWidthHr {
+        border: 0.75px solid #2aa7df;
+        width: 100%;
+        margin: 4% 0;
+    }
+    .smallText {
+        font-size: 10px;
+    }
+}

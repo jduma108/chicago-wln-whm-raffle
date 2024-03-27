@@ -1,0 +1,100 @@
+.organizationsWrapper {
+    font-family: 'Oswald', sans-serif;
+    color: #18b0c4;
+    padding: 4% 6%;
+}
+
+.organizationsWrapper h1 {
+    font-size: 60px;
+    font-weight: 300;
+    letter-spacing: 4px;
+    text-align: center;
+}
+
+.organizationsWrapper h2 {
+    padding: 0;
+    margin: 0;
+}
+
+.organizationsWrapper hr {
+    width: 8%;
+    border: 2px solid #18b0c4;
+}
+
+.organizationsWrapper p {
+    font-size: 20px;
+    font-weight: 300;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 40px;
+    margin-bottom: 2%;
+    color: #222222;
+}
+
+.organizationsWrapper a {
+    color: #18b0c4;
+    transition: ease 1s;
+}
+
+.organizationsWrapper a:hover {
+    color: #e6e515;
+    text-decoration: underline;
+}
+
+.organizationsContainer {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 2%;
+}
+
+.organization {
+    width: 30%;
+}
+
+.logo{
+    width: 10%;
+    height: 22%;
+    transition: transform 1s;
+    margin-right: 2%;
+}
+
+.logo:hover {
+    transform: scale(1.1)
+}
+
+.organizationsWrapper .descriptionWrapper {
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+}
+
+@media screen and (max-width: 800px) {
+    .organizationsWrapper h1 {
+        font-size: 48px;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .organizationsContainer {
+        display: block;
+        margin-top: 4%;
+    }
+    .organizationsWrapper {
+        padding: 8% 6%;
+    }
+    .organizationsWrapper h1 {
+        font-size: 32px;
+    }
+    .organizationsWrapper hr {
+        width: 15%;
+    }
+    .organizationsWrapper p {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .organization {
+        display: block;
+        margin: auto;
+        width: 60%;
+        margin-bottom: 4%;
+    }
+}

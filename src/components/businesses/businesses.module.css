@@ -1,0 +1,128 @@
+.mainWrapper {
+    display: block;
+    overflow: auto;
+    font-family: 'Oswald', sans-serif;
+    background-color: #18b0c4;
+    text-align: center;
+    padding: 4% 6%;
+}
+
+.mainWrapper h1 {
+    font-size: 60px;
+    font-weight: 300;
+    letter-spacing: 4px;
+    color: white;
+}
+
+.mainWrapper h2 {
+    font-size: 24px;
+    font-weight: 300;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 40px;
+    margin-top: 4%;
+    color: white;
+}
+
+.mainWrapper h4 {
+    font-size: 18px;
+    font-weight: 300;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 30px;
+    color: white;
+}
+
+.mainWrapper hr {
+    width: 8%;
+    border: 2px solid white;
+}
+
+.itemWrapper {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top: 4%;
+}
+
+.item {
+    width: 30%;
+    background-color: rgba(255,255,255,0.1);
+    border-radius: 5px;
+    padding: 2%;
+    margin-bottom: 4%;
+    transition: transform 1s;
+}
+
+.item:hover {
+    transform: scale(1.05);
+    text-decoration: none;
+}
+
+.itemGroupImg {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 6%;
+}
+
+.itemImg {
+    width: 150px;
+    height: 150px;
+    float: left;
+}
+
+.itemDescription {
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: left;
+    color: white;
+}
+
+.hiddenImages {
+    display: none;
+}
+
+@media screen and (max-width: 1200px) {
+    .item {
+        width: 46%;
+        float: left;
+        margin: 0 2% 4%;
+    }
+}
+@media screen and (max-width: 800px) {
+    .mainWrapper h1 {
+        font-size: 48px;
+    }
+    .mainWrapper h4 {
+        font-size: 16px;
+    }
+    .itemWrapper {
+        display: block;
+    }
+    .item {
+        width: 100%;
+        clear: both;
+        margin: 0 0 6% 0;
+        padding: 6%;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .mainWrapper {
+        padding: 8% 6%;
+    }
+    .mainWrapper h1 {
+        font-size: 32px;
+        margin-top: 1%;
+    }
+    .mainWrapper h2 {
+        font-size: 18px;
+        line-height: 24px;
+        margin-bottom: 10%;
+    }
+    .mainWrapper h4 {
+        font-size: 14px;
+    }
+    .mainWrapper hr {
+        width: 15%;
+    }
+}
+

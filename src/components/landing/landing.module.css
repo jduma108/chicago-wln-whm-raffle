@@ -1,0 +1,87 @@
+.landingWrapper {
+    height: 510px;
+    background-image: url(../../assets/wln-background.png);
+    background-size: cover;
+    font-family: 'Oswald', sans-serif;
+    color: #129d90;
+    padding-left: 5%;
+}
+
+.landingWrapper h1 {
+    font-size: 100px;
+    font-weight: 300;
+    letter-spacing: 4px;
+    margin-top: -10px;
+}
+
+.landingWrapper h2 {
+    font-size: 50px;
+    font-weight: 300;
+    letter-spacing: 4px;
+    margin-top: 2%;
+}
+
+.logo {
+    width: 15%;
+    padding-top: 6%;
+}
+
+@media screen and (max-width: 1400px) {
+    .landingWrapper {
+        height: 460px;
+    }
+}
+
+@media screen and (max-width: 1150px) {
+    .landingWrapper {
+        height: 400px;
+    }
+}
+
+@media screen and (max-width: 950px) {
+    .landingWrapper {
+        height: 350px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .landingWrapper {
+        height: 250px;
+    }
+    .landingWrapper h1 {
+        font-size: 60px;
+    }
+    
+    .landingWrapper h2 {
+        font-size: 32px;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .landingWrapper {
+        height: 220px;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .landingWrapper {
+        height: 210px;
+    }
+    .landingWrapper h1 {
+        font-size: 32px;
+        margin-top: 1%;
+    }
+    .landingWrapper h2 {
+        font-size: 20px;
+        margin-top: 4%;
+    }
+    .logo {
+        width: 30%;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .landingWrapper {
+        height: 180px;
+    }
+}

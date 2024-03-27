@@ -1,0 +1,125 @@
+.auctionItemsWrapper {
+    display: block;
+    overflow: auto;
+    background-color: #2aa7df;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    padding: 4% 6%;
+}
+
+.auctionItemsWrapper h1 {
+    font-size: 60px;
+    font-weight: 300;
+    letter-spacing: 4px;
+    text-align: center;
+}
+
+.auctionItemsWrapper hr {
+    width: 8%;
+    border: 2px solid white;
+}
+
+.itemContainer {
+    width: 100%;
+    color: white;
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.itemContainer a {
+    color: white;
+    text-decoration: underline;
+    transition: 0.5s ease;
+}
+
+.itemContainer a:hover {
+    color: #e6e515;
+    text-decoration: underline;
+}
+
+.item {
+    width: 30%;
+    background-color: rgba(255,255,255,0.1);
+    border-radius: 5px;
+    padding: 2%;
+    margin-bottom: 4%;
+    transition: transform 1s;
+}
+
+.item .linkTitle {
+    text-decoration: none;
+}
+
+.item .linkTitle:hover {
+    color: #e6e515;
+    text-decoration: none;
+}
+
+.item .linkTitle h1 {
+    padding: 30% 0;
+    text-align: center;
+}
+
+.item:hover {
+    transform: scale(1.05)
+}
+
+.item h3 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 24px;
+    text-align: center;
+    margin: 4% 0;
+}
+
+.item p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+}
+
+.itemPic {
+    width: 80%;
+    display: block;
+    margin: auto;
+    border-radius: 5px;
+}
+
+.hiddenImages {
+    display: none;
+}
+
+@media screen and (max-width: 1200px) {
+    .item {
+        width: 46%;
+        float: left;
+        margin: 0 2% 4%;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .auctionItemsWrapper h1 {
+        font-size: 48px;
+    }
+    .itemContainer {
+        display: block;
+    }
+    .item {
+        width: 100%;
+        clear: both;
+        margin: 0 0 6% 0;
+        padding: 6%;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .auctionItemsWrapper {
+        padding: 8% 6%;
+    }
+    .auctionItemsWrapper h1 {
+        font-size: 32px;
+    }
+    .auctionItemsWrapper hr {
+        width: 15%;
+    }
+}

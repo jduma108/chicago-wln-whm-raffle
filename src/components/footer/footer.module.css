@@ -1,0 +1,49 @@
+.footerWrapper {
+    height: 8vh;
+    background-image: url(../../assets/wln-background.png);
+    background-size: cover;
+    font-family: 'Oswald', sans-serif;
+    color: #129d90;
+    padding: 1.5%;
+}
+
+.logo {
+    width: 5%;
+    float: left;
+    margin-right: 1%;
+}
+
+.footerWrapper p {
+    font-size: 18px;
+    padding: 0;
+    margin: 0;
+}
+
+@media screen and (max-width: 1300px) {
+    .footerWrapper {
+        height: 6vh;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .footerWrapper {
+        height: 5vh;
+    }
+    .footerWrapper p {
+        font-size: 16px;
+    }
+    .logo {
+        width: 10%;
+        margin-right: 2%;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .footerWrapper p {
+        font-size: 14px;
+    }
+    .logo {
+        width: 10%;
+        margin: 1% 2%;
+    }
+}
