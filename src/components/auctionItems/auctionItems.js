@@ -2,26 +2,27 @@ import React from 'react';
 import styles from './auctionItems.module.css';
 import auctionItemData from '../../data/auctionItems.json';
 import noImage from '../../assets/no-image.png';
-import fourteenParish from '../../assets/raffleItems/14-parish-prize.png';
-import barRoma from '../../assets/raffleItems/bar-roma-prize.png';
-import cbinm from '../../assets/raffleItems/cant-believe-its-not-meat-prize.png';
-import cfp from '../../assets/raffleItems/chicago-french-press-prize.png';
-import corePower from '../../assets/raffleItems/corepower-yoga-prize.png';
-import fgj from '../../assets/raffleItems/fiya-geraldine-jerrys-prize.png';
-import gatg from '../../assets/raffleItems/girl-and-the-goat-prize.png';
-import humboldtHouse from '../../assets/raffleItems/humboldt-house-prize.png';
-import ivs from '../../assets/raffleItems/indigo-and-violet-prize.png';
-import inspiredIndian from '../../assets/raffleItems/inspired-indian-cooking-prize.png';
-import kendraScott from '../../assets/raffleItems/kendra-scott-prize.png';
-import lsp1 from '../../assets/raffleItems/logan-square-pilates-prize-1.png';
-import lsp2 from '../../assets/raffleItems/logan-square-pilates-prize-2.png';
-import pizzaLobo from '../../assets/raffleItems/pizza-lobo-prize.png';
-import ponnopozz from '../../assets/raffleItems/ponnopozz-prize.png';
-import semillas from '../../assets/raffleItems/semillas-prize.png';
-import theStudio from '../../assets/raffleItems/the-studio-chicago-prize.png';
-import ugs from '../../assets/raffleItems/urban-general-store-prize.png';
-import saucy from '../../assets/raffleItems/saucy-porka-prize.png';
-import wcf from '../../assets/raffleItems/women-and-children-first-prize.png';
+import andreaPricePotteryPrize from '../../assets/raffleItems/andrea-price-pottery-prize.png';
+import bsYogaPrize from '../../assets/raffleItems/big-shoulders-yoga-prize.png';
+import blackLuxeCandlePrize from '../../assets/raffleItems/black-luxe-candle-prize.png';
+import bonFemmesPrize from '../../assets/raffleItems/bon-femmes-prize.png';
+import csuPrize from '../../assets/raffleItems/chicago-state-university-prize.png';
+import coletteCollectionPrize from '../../assets/raffleItems/colette-collection-prize.png';
+import demeraPrize from '../../assets/raffleItems/demera-prize.png';
+import kendraScottPrize from '../../assets/raffleItems/kendra-scott-prize.png';
+import momNPopPrize from '../../assets/raffleItems/momnpop-hospitality-prize.png';
+import onLeavePrize from '../../assets/raffleItems/on-leave-experiences-prize.png';
+import overflowCandlePrize from '../../assets/raffleItems/overflow-candle-prize.png';
+import pizzaLoboPrize from '../../assets/raffleItems/pizza-lobo-prize.png';
+import sinTituloPrize from '../../assets/raffleItems/sin-titulo-prize.png';
+import soapDistilleryPrize from '../../assets/raffleItems/soap-distillery-prize.png';
+import spaSoakPrize from '../../assets/raffleItems/spa-soak-prize.png';
+import squeakyBeasPrize from '../../assets/raffleItems/squeaky-beas-prize.png';
+import sukhaSanctuaryPrize from '../../assets/raffleItems/sukha-sanctuary-prize.png';
+import theRefilleriPrize from '../../assets/raffleItems/the-refilleri-prize.png';
+import unbotheredFoodsPrize from '../../assets/raffleItems/unbothered-foods-prize.png';
+import vietfivePrize from '../../assets/raffleItems/vietfive-coffee-prize.png';
+import vosgesPrize from '../../assets/raffleItems/vosges-prize.png';
 
 const AuctionItems = () => (
     <div className={styles.auctionItemsWrapper}>
@@ -31,7 +32,7 @@ const AuctionItems = () => (
             {
                 auctionItemData.map((item) => (
                     <div className={styles.item} key={item.itemTitle}>
-                        <a href="https://form.jotform.com/230750690775058" target="_blank" rel="noreferrer">
+                        <a href="https://form.jotform.com/240744412784155" target="_blank" rel="noreferrer">
                             <img src={item.itemImage} alt={item.itemTitle} className={styles.itemPic}/>
                         </a>
                         <h3>{item.itemTitle}</h3>
@@ -41,35 +42,35 @@ const AuctionItems = () => (
                     </div>
                 ))
             }
-            <div className={styles.item}>
-                <a href="https://form.jotform.com/230750690775058" target="_blank" rel="noreferrer" className={styles.linkTitle}>
+            {/* <div className={styles.item}>
+                <a href="https://form.jotform.com/240744412784155" target="_blank" rel="noreferrer" className={styles.linkTitle}>
                     <h1 className={styles.linkTitle}>BUY RAFFLE TICKETS HERE!</h1>
                 </a>
-            </div>
+            </div> */}
         </div>
         <div className={styles.hiddenImages}>
             <img src={noImage} alt="item" className={styles.itemPic}/>
-            <img src={fourteenParish} alt="item" className={styles.itemPic}/>
-            <img src={barRoma} alt="item" className={styles.itemPic}/>
-            <img src={cbinm} alt="item" className={styles.itemPic}/>
-            <img src={cfp} alt="item" className={styles.itemPic}/>
-            <img src={corePower} alt="item" className={styles.itemPic}/>
-            <img src={fgj} alt="item" className={styles.itemPic}/>
-            <img src={gatg} alt="item" className={styles.itemPic}/>
-            <img src={humboldtHouse} alt="item" className={styles.itemPic}/>
-            <img src={ivs} alt="item" className={styles.itemPic}/>
-            <img src={inspiredIndian} alt="item" className={styles.itemPic}/>
-            <img src={kendraScott} alt="item" className={styles.itemPic}/>
-            <img src={lsp1} alt="item" className={styles.itemPic}/>
-            <img src={lsp2} alt="item" className={styles.itemPic}/>
-            <img src={pizzaLobo} alt="item" className={styles.itemPic}/>
-            <img src={ponnopozz} alt="item" className={styles.itemPic}/>
-            <img src={semillas} alt="item" className={styles.itemPic}/>
-            <img src={theStudio} alt="item" className={styles.itemPic}/>
-            <img src={ugs} alt="item" className={styles.itemPic}/>
-            <img src={saucy} alt="item" className={styles.itemPic}/>
-            <img src={wcf} alt="item" className={styles.itemPic}/>
-            <img src={saucy} alt="item" className={styles.itemPic}/>
+            <img src={andreaPricePotteryPrize} alt="item" className={styles.itemPic}/>
+            <img src={bsYogaPrize} alt="item" className={styles.itemPic}/>
+            <img src={blackLuxeCandlePrize} alt="item" className={styles.itemPic}/>
+            <img src={bonFemmesPrize} alt="item" className={styles.itemPic}/>
+            <img src={csuPrize} alt="item" className={styles.itemPic}/>
+            <img src={coletteCollectionPrize} alt="item" className={styles.itemPic}/>
+            <img src={demeraPrize} alt="item" className={styles.itemPic}/>
+            <img src={kendraScottPrize} alt="item" className={styles.itemPic}/>
+            <img src={momNPopPrize} alt="item" className={styles.itemPic}/>
+            <img src={onLeavePrize} alt="item" className={styles.itemPic}/>
+            <img src={overflowCandlePrize} alt="item" className={styles.itemPic}/>
+            <img src={pizzaLoboPrize} alt="item" className={styles.itemPic}/>
+            <img src={sinTituloPrize} alt="item" className={styles.itemPic}/>
+            <img src={soapDistilleryPrize} alt="item" className={styles.itemPic}/>
+            <img src={spaSoakPrize} alt="item" className={styles.itemPic}/>
+            <img src={squeakyBeasPrize} alt="item" className={styles.itemPic}/>
+            <img src={sukhaSanctuaryPrize} alt="item" className={styles.itemPic}/>
+            <img src={theRefilleriPrize} alt="item" className={styles.itemPic}/>
+            <img src={unbotheredFoodsPrize} alt="item" className={styles.itemPic}/>
+            <img src={vietfivePrize} alt="item" className={styles.itemPic}/>
+            <img src={vosgesPrize} alt="item" className={styles.itemPic}/>
         </div>
     </div>
 );

@@ -1,48 +1,52 @@
 import React from 'react';
 import styles from './businesses.module.css';
 import businessInfo from '../../data/businessInfo.json';
-import barRoma from '../../assets/logos/bar-roma-logo.png';
-import cfp from '../../assets/logos/chicago-french-press-logo.png';
-import gatg from '../../assets/logos/gatg-logo.png';
-import ivs from '../../assets/logos/indigo-violet-studio-logo.png';
-import ugs from '../../assets/logos/urban-general-store-logo.png';
-import wcf from '../../assets/logos/women-children-first-logo.png';
-import fourteenParish from '../../assets/logos/14-parish-logo.png'
-import cbinm from '../../assets/logos/cant-believe-its-not-meat-logo.png'
-import cpy from '../../assets/logos/core-power-yoga-logo.png'
-import humboldtHouse from '../../assets/logos/humboldt-house-logo.png'
-import iic from '../../assets/logos/inspired-indian-cooking-logo.png'
-import kendraScott from '../../assets/logos/kendra-scott-logo.png'
-import lsp from '../../assets/logos/logan-square-pilates-logo.png'
-import momNpop from '../../assets/logos/mom-n-pop-hospitality-logo.png'
-import pizzaLobo from '../../assets/logos/pizza-lobo-logo.png'
-import ponnopozz from '../../assets/logos/ponnopozz-logo.png'
-import semillas from '../../assets/logos/semillas-plant-studio-logo.png'
-import tsc from '../../assets/logos/the-studio-chicago-logo.png'
-import saucy from '../../assets/logos/saucy-porka-logo.png'
-import barRomaOwner from '../../assets/owners/julia-zhu.png';
-import cfpOwner from '../../assets/owners/chicago-french-press-owner.png';
-import gatgOwner from '../../assets/owners/stephanie-izard.png';
-import ivsOwner from '../../assets/owners/leigh-hardy.png';
-import wcfOwners from '../../assets/owners/women-children-first-owners.png';
-import fourteenParishOwner from '../../assets/owners/14-parish-owner.png';
-import cbinmOwner from '../../assets/owners/cant-believe-its-not-meat-owner.png';
-import humboldtHouseOwner from '../../assets/owners/humboldt-house-owner.png';
-import iicOwner from '../../assets/owners/inspired-indian-cooking-owner.png';
+import andreaPriceLogo from '../../assets/logos/andrea-price-pottery-logo.png';
+import bsYogaLogo from '../../assets/logos/big-shoulders-yoga-logo.png';
+import blackLuxeCandleLogo from '../../assets/logos/black-luxe-candle-logo.png';
+import bonFemmesLogo from '../../assets/logos/bon-femmes-logo.png';
+import coletteCollectionLogo from '../../assets/logos/colette-collection-logo.png';
+import csuLogo from '../../assets/logos/chicago-statue-university-logo.png';
+import demeraLogo from '../../assets/logos/demera-logo.png';
+import kendraScottLogo from '../../assets/logos/kendra-scott-logo.png';
+import momNpopLogo from '../../assets/logos/momnpop-hospitality-logo.png';
+import onLeaveLogo from '../../assets/logos/on-leave-experiences-logo.png';
+import overflowLogo from '../../assets/logos/overflow-candle-logo.png';
+import pizzaLoboLogo from '../../assets/logos/pizza-lobo-logo.png';
+import sinTituloLogo from '../../assets/logos/sin-titulo-logo.png';
+import soapDistilleryLogo from '../../assets/logos/soap-distillery-logo.png';
+import spaSoakLogo from '../../assets/logos/spa-soak-logo.png';
+import squeakyBeasLogo from '../../assets/logos/squeaky-beas-logo.png';
+import sukhaSanctuaryLogo from '../../assets/logos/sukha-sanctuary-logo.png';
+import refilleriLogo from '../../assets/logos/the-refilleri-logo.png';
+import unbotheredFoodsLogo from '../../assets/logos/unbothered-foods-logo.png';
+import vietfiveLogo from '../../assets/logos/vietfive-logo.png';
+import vosgesLogo from '../../assets/logos/vosges-logo.png';
+import andreaPricePotteryOwner from '../../assets/owners/andrea-price-pottery-owner.png';
+import bsYogaOwner from '../../assets/owners/big-shoulders-yoga-owner.png';
+import blackLuxeCandleOwner from '../../assets/owners/black-luxe-candle-owner.png';
+import bonFemmesOwner from '../../assets/owners/bon-femmes-owner.png';
+import coletteCollectionOwner from '../../assets/owners/colette-collection-owner.png';
+import csuDirector from '../../assets/owners/chicago-state-university-athletics-director.png';
+import demeraOwner from '../../assets/owners/demera-owner.png';
 import kendraScottOwner from '../../assets/owners/kendra-scott-owner.png';
-import lspOwner from '../../assets/owners/logan-square-pilates-owner.png'
-import momNpopOwner from '../../assets/owners/mom-n-pop-hospitality-owner.png'
-import pizzaLoboOwner from '../../assets/owners/pizza-lobo-owner.png'
-import ponnopozzOwner from '../../assets/owners/ponnopozz-owner.png'
-import semillasOwner from '../../assets/owners/semillas-plant-studio-owner.png'
-import tscOwner from '../../assets/owners/the-studio-chicago-owner.png'
-import saucyOwner from '../../assets/owners/saucy-porka-owner.png'
-import ugsOwner from '../../assets/owners/urban-general-store-owner.png'
-import cpyOwner from '../../assets/owners/corepower-yoga-owner.png'
+import momNpopOwner from '../../assets/owners/momnpop-hospitality-owner.png';
+import onLeaveOwner from '../../assets/owners/on-leave-experiences-owner.png';
+import overflowOwner from '../../assets/owners/overflow-candle-owner.png';
+import pizzaLoboOwner from '../../assets/owners/pizza-lobo-owner.png';
+import sinTituloOwner from '../../assets/owners/sin-titulo-owner.png';
+import soapDistilleryOwner from '../../assets/owners/soap-distillery-owner.png';
+import spaSoakOwner from '../../assets/owners/spa-soak-owner.png'
+import squeakyBeasOwner from '../../assets/owners/squeaky-beas-owner.png';
+import sukhaSanctuaryOwner from '../../assets/owners/sukha-sanctuary-owner.jpeg'
+import refilleriOwner from '../../assets/owners/the-refilleri-owner.png';
+import unbotheredFoodsOwner from '../../assets/owners/unbothered-foods-owner.png';
+import vietfiveOwner from '../../assets/owners/vietfive-coffee-owner.png';
+import vosgesOwner from '../../assets/owners/vosges-owner.png';
 
 const Businesses = () => (
     <div className={styles.mainWrapper}>
-        <h1>WOMEN/LOCALLAY OWNED BUSINESSES</h1>
+        <h1>WOMEN/LOCALLY OWNED BUSINESSES</h1>
         <hr/>
         <h2>Below are the businesses who donated to our raffle or businesses WLN purchased raffle prizes from. Click on the name of each business to learn more about what they do!</h2>
         <div className={styles.itemWrapper}>
@@ -65,49 +69,50 @@ const Businesses = () => (
             ))}
         </div>
         <h4>Chicago WLN Raffle Committee Members:</h4>
-        <h4>Cecelia Aragones, Ciera deCourcy, Jillian Duma, Mary Erickson, Sophie Lancaster, Sabrina Ruiz and John Webb</h4>
+        <h4>Ciera deCourcy, Jillian Duma, Sophie Lancaster, Sabrina Ruiz, Bob Lewandowski, Layna Lu, Jessie Price, John Webb and Kaitlyn Wu</h4>
         <div className={styles.hiddenImages}>
-            <img src={fourteenParish} alt="item" className={styles.itemPic}/>
-            <img src={cbinm} alt="item" className={styles.itemPic}/>
-            <img src={barRoma} alt="item" className={styles.itemPic}/>
-            <img src={iic} alt="item" className={styles.itemPic}/>
-            <img src={cfp} alt="item" className={styles.itemPic}/>
-            <img src={lsp} alt="item" className={styles.itemPic}/>
-            <img src={momNpop} alt="item" className={styles.itemPic}/>
-            <img src={gatg} alt="item" className={styles.itemPic}/>
-            <img src={ivs} alt="item" className={styles.itemPic}/>
-            <img src={ponnopozz} alt="item" className={styles.itemPic}/>
-            <img src={semillas} alt="item" className={styles.itemPic}/>
-            <img src={ugs} alt="item" className={styles.itemPic}/>
-            <img src={wcf} alt="item" className={styles.itemPic}/>
-            <img src={pizzaLobo} alt="item" className={styles.itemPic}/>
-            <img src={tsc} alt="item" className={styles.itemPic}/>
-            <img src={kendraScott} alt="item" className={styles.itemPic}/>
-            <img src={pizzaLobo} alt="item" className={styles.itemPic}/>
-            <img src={humboldtHouse} alt="item" className={styles.itemPic}/>
-            <img src={cpy} alt="item" className={styles.itemPic}/>
-            <img src={saucy} alt="item" className={styles.itemPic}/>
-            <img src={wcfOwners} alt="item" className={styles.itemPic}/>
-            <img src={barRomaOwner} alt="item" className={styles.itemPic}/>
-            <img src={gatgOwner} alt="item" className={styles.itemPic}/>
-            <img src={wcfOwners} alt="item" className={styles.itemPic}/>
-            <img src={fourteenParishOwner} alt="item" className={styles.itemPic}/>
-            <img src={ivsOwner} alt="item" className={styles.itemPic}/>
-            <img src={cbinmOwner} alt="item" className={styles.itemPic}/>
-            <img src={cfpOwner} alt="item" className={styles.itemPic}/>
-            <img src={humboldtHouseOwner} alt="item" className={styles.itemPic}/>
+            <img src={andreaPriceLogo} alt="item" className={styles.itemPic}/>
+            <img src={bsYogaLogo} alt="item" className={styles.itemPic}/>
+            <img src={blackLuxeCandleLogo} alt="item" className={styles.itemPic}/>
+            <img src={bonFemmesLogo} alt="item" className={styles.itemPic}/>
+            <img src={coletteCollectionLogo} alt="item" className={styles.itemPic}/>
+            <img src={csuLogo} alt="item" className={styles.itemPic}/>
+            <img src={demeraLogo} alt="item" className={styles.itemPic}/>
+            <img src={kendraScottLogo} alt="item" className={styles.itemPic}/>
+            <img src={momNpopLogo} alt="item" className={styles.itemPic}/>
+            <img src={onLeaveLogo} alt="item" className={styles.itemPic}/>
+            <img src={overflowLogo} alt="item" className={styles.itemPic}/>
+            <img src={pizzaLoboLogo} alt="item" className={styles.itemPic}/>
+            <img src={sinTituloLogo} alt="item" className={styles.itemPic}/>
+            <img src={soapDistilleryLogo} alt="item" className={styles.itemPic}/>
+            <img src={spaSoakLogo} alt="item" className={styles.itemPic}/>
+            <img src={squeakyBeasLogo} alt="item" className={styles.itemPic}/>
+            <img src={sukhaSanctuaryLogo} alt="item" className={styles.itemPic}/>
+            <img src={refilleriLogo} alt="item" className={styles.itemPic}/>
+            <img src={unbotheredFoodsLogo} alt="item" className={styles.itemPic}/>
+            <img src={vietfiveLogo} alt="item" className={styles.itemPic}/>
+            <img src={vosgesLogo} alt="item" className={styles.itemPic}/>
+            <img src={andreaPricePotteryOwner} alt="item" className={styles.itemPic}/>
+            <img src={bsYogaOwner} alt="item" className={styles.itemPic}/>
+            <img src={blackLuxeCandleOwner} alt="item" className={styles.itemPic}/>
+            <img src={bonFemmesOwner} alt="item" className={styles.itemPic}/>
+            <img src={coletteCollectionOwner} alt="item" className={styles.itemPic}/>
+            <img src={csuDirector} alt="item" className={styles.itemPic}/>
+            <img src={demeraOwner} alt="item" className={styles.itemPic}/>
             <img src={kendraScottOwner} alt="item" className={styles.itemPic}/>
-            <img src={lspOwner} alt="item" className={styles.itemPic}/>
-            <img src={iicOwner} alt="item" className={styles.itemPic}/>
             <img src={momNpopOwner} alt="item" className={styles.itemPic}/>
-            <img src={wcfOwners} alt="item" className={styles.itemPic}/>
-            <img src={semillasOwner} alt="item" className={styles.itemPic}/>
-            <img src={tscOwner} alt="item" className={styles.itemPic}/>
-            <img src={ponnopozzOwner} alt="item" className={styles.itemPic}/>
+            <img src={onLeaveOwner} alt="item" className={styles.itemPic}/>
+            <img src={overflowOwner} alt="item" className={styles.itemPic}/>
             <img src={pizzaLoboOwner} alt="item" className={styles.itemPic}/>
-            <img src={ugsOwner} alt="item" className={styles.itemPic}/>
-            <img src={cpyOwner} alt="item" className={styles.itemPic}/>
-            <img src={saucyOwner} alt="item" className={styles.itemPic}/>
+            <img src={sinTituloOwner} alt="item" className={styles.itemPic}/>
+            <img src={soapDistilleryOwner} alt="item" className={styles.itemPic}/>
+            <img src={spaSoakOwner} alt="item" className={styles.itemPic}/>
+            <img src={squeakyBeasOwner} alt="item" className={styles.itemPic}/>
+            <img src={sukhaSanctuaryOwner} alt="item" className={styles.itemPic}/>
+            <img src={refilleriOwner} alt="item" className={styles.itemPic}/>
+            <img src={unbotheredFoodsOwner} alt="item" className={styles.itemPic}/>
+            <img src={vietfiveOwner} alt="item" className={styles.itemPic}/>
+            <img src={vosgesOwner} alt="item" className={styles.itemPic}/>
         </div>
     </div>
 );
