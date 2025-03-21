@@ -1,149 +1,107 @@
 [
     {
-        "itemTitle": "Big Shoulders Yoga Month-Long Certificate",
-        "itemDescription": "A certificate for a month of unlimited yoga classes. Big Shoulders Yoga strives to create a community that is as hard working on the mat as it is off of it. It's not about ability or appearance, it's about consistency and willingness to try something new. Let's listen to our bodies, move in a way that feels good, and reverse some of the daily strain we put on ourselves. All while building connections with others doing the same.",
-        "itemImage": "/static/media/big-shoulders-yoga-prize.9a719e97.png",
+        "itemTitle": "Cupitol Coffee & Eatery $50 Gift Card ",
+        "itemDescription": "",
+        "itemImage": "/static/media/no-image.fa5fb045.png",
+        "deliveryType": "",
+        "website": ""
+    },
+    {
+        "itemTitle": "Essential Facial (Valued at $125)",
+        "itemDescription": "Experience a revitalizing 60-minute essential facial from Spa Soak, that deeply cleanses, exfoliates, and hydrates your skin. This treatment includes a soothing facial massage, customized mask, and the application of high-quality serums and moisturizers, leaving your complexion refreshed, radiant, and nourished.",
+        "itemImage": "/static/media/spa-soak-facial-prize.944c15e2.png",
         "deliveryType": "Will be delivered through email.",
-        "website": "https://www.bigshouldersyoga.com"
-    },
-    {
-        "itemTitle": "Black Luxe Candle Making Class",
-        "itemDescription": "A gift certificate for a candle making class for two people. The Black Luxe Candle Making Experience is a candle making workshop that includes all the supplies for one person to make a candle. During the class you will choose your favorite fragrance and vessel, then measure, mix, and pour your very own candle in an instructor-led class.",
-        "itemImage": "/static/media/black-luxe-candle-prize.3eb6296c.png",
-        "deliveryType": "Will be delivered through email.",
-        "website": "https://www.blackluxecandles.com"
-    },
-    {
-        "itemTitle": "Bon Femmes $50 Gift Card",
-        "itemDescription": "Say 'bonjour' to the best gift of all: the Bon Femmes Gift Card! It's a perfect way to give your special someone the freedom to choose what they really want. Whether spending it online or in-store, it's never been easier to gift the perfect present. Voilà!",
-        "itemImage": "/static/media/bon-femmes-prize.0947c7e8.png",
-        "deliveryType": "Will be delivered through email.",
-        "website": "https://www.bonfemmes.com"
-    },
-    {
-        "itemTitle": "Chicago State University Athletics Sports Package (Valued at $500)",
-        "itemDescription": "Enjoy an exclusive Chicago State University package featuring 2 tickets to a November basketball game (dates to be confirmed), Raising Canes Chicken Fingers swag items, 2 CSU hats, 2 CSU shirts, and 2 CSU hoodies. Also included is a sleek Nike backpack and 2 pairs of Nike InfinityRN 4 Black Running Shoes, available in both men's and women's sizes, with all clothing items customizable to fit the winner's preference.",
-        "itemImage": "/static/media/chicago-state-university-prize.b318e9a2.png",
-        "deliveryType": "Must be picked up in-person.",
-        "website": "https://www.gocsucougars.com"
-    },
-    {
-        "itemTitle": "Demera $100 Gift Card",
-        "itemDescription": "A $100 gift card to Demera Ethopian Resteraunt. Demera serves traditional Ethiopian cuisine using only the freshest, high quality, and authentic ingredients. For many of the guests experiencing Demera Ethiopian Restaurant, for the first time or as repeat customers, what impresses and fascinates them the most is not only the exciting flavors, excellent service, and exotic traditions of Ethiopia but also the experience of communal “family-style” hand-eaten meals shared among family and friends.",
-        "itemImage": "/static/media/demera-prize.b72bf8c5.png",
-        "deliveryType": "Will be delivered through email.",
-        "website": "https://www.demerachicago.com/"
-    },
-    {
-        "itemTitle": "Vosges Exotic Truffle Collection",
-        "itemDescription": "The signature 32-piece exotic truffles collection is inspired by Katrina’s travels around the world. The proprietary blend of chocolate, exotic spices, herbs, roots, and botanicals are sourced for their superior qualities from her travels worldwide. Each exotic chocolate truffle collection includes an enclosed book with guided tasting notes, ingredient sourcing details, and experiential truffle stories and pairings.",
-        "itemImage": "/static/media/vosges-prize.bb3bc5c2.png",
-        "deliveryType": "Must be picked up in-person.",
-        "website": "https://www.vosgeschocolate.com"
-    },
-    {
-        "itemTitle": "Hand-Thrown Ceramic Casserole Dish",
-        "itemDescription": "Enjoy a hand-thrown ceramic casserole dish from Andrea Price Pottery in color Antique White (retail $60). Perfect for dips, warm brie, as a serving dish, or whatever you want! Dishwasher, microwave, and oven safe!",
-        "itemImage": "/static/media/andrea-price-pottery-prize.4b868038.png",
-        "deliveryType": "Will be delivered through mail.",
-        "website": "https://www.instagram.com/andreamartinprice"
+        "website": "https://www.spasoakchicago.com/"
     },
     {
         "itemTitle": "Kendra Scott Jewelry Set",
-        "itemDescription": "Enjoy a jewelry set from Kendra Scott featuring (1) pair of Ari Heart Gold Stud Earrings and (1) Ari Heart Pendant Necklace.",
-        "itemImage": "/static/media/kendra-scott-prize.eb72697a.png",
+        "itemDescription": "Enjoy a necklane and earring set from Kendra Scott! This jewelry set features a simple chain necklace and drop shaped earrings.",
+        "itemImage": "/static/media/ks-prize.d288feaf.png",
         "deliveryType": "Must be picked up in-person.",
-        "website": "https://www.kendrascott.com"
+        "website": "https://www.kendrascott.com/"
     },
     {
-        "itemTitle": "Mom 'n Pop Hospitality $30 Gift Certificate",
-        "itemDescription": "A $30 restaurant certificate from Mom n' Pop Hospitality that can be used at Fiya, Geraldines Cafe or Jerry's Sandwiches. These restaurants are in a variety of locations on the north-side.",
-        "itemImage": "/static/media/momnpop-hospitality-prize.a9b6f747.png",
+        "itemTitle": "Life Coaching Sessions",
+        "itemDescription": "Recieve 10 complimentary 30-minute life coaching sessions with Latavya Solutions LLC owned by Publicis Sapient's very own Srikanth Jagannath. Latavya Solutions LLC is a life-changing coaching service provided by a certified life coach. Their mission is to empower individuals to unlock their full potential, overcome challenges, and achieve their dreams.",
+        "itemImage": "/static/media/latavya-solutions-llc-prize.0b1b955e.jpeg",
         "deliveryType": "Will be delivered through email.",
-        "website": "https://www.momnpophospitality.com/"
+        "website": "https://www.linkedin.com/in/sjaganna/"
     },
     {
-        "itemTitle": "On Leave Life Coaching Sessions",
-        "itemDescription": "Receive 2 complimentary 30-minute coaching sessions with certified life/professional coach Liz Coffey of On Leave Experiences. Coaching is all about looking to the future and asking what you want for yourself + identifying the steps you can take now to get there. Your sessions can focus on any topics that are helpful to you.",
-        "itemImage": "/static/media/on-leave-experiences-prize.9d84e16a.png",
-        "deliveryType": "Will be delivered through email.",
-        "website": "https://www.onleaveexperiences.com/"
-    },
-    {
-        "itemTitle": "Overflow Candle Co Gift Box (Valued at $100)",
-        "itemDescription": "A candle gift box with 3 long-lasting candles. (1) Sun-Drenched (watermint and clementine) 16 oz (1) Lazy, Hazey, Crazy (toasted coconut and midnight amber) 16 oz, and (1) Kakadu Plum and Amber (coconut soy) 4 oz.",
-        "itemImage": "/static/media/overflow-candle-prize.ced55126.png",
+        "itemTitle": "Mat Pilates Classes Gift Voucher",
+        "itemDescription": "A gift voucher for 5 mat pilates classes from Logan Square Pilates. These classes will walk you through the equipment vocabulary, fundamentals and technique and discuss the importance of precision, control and breath while making sure you get a great workout.",
+        "itemImage": "/static/media/lsp-mat-prize.ec1a3959.png",
         "deliveryType": "Must be picked up in-person.",
-        "website": "https://www.overflowcandleco.com/"
+        "website": "https://www.logansquarepilates.com/"
+    },
+    {
+        "itemTitle": "Monteverde $100 Gift Card",
+        "itemDescription": "",
+        "itemImage": "/static/media/no-image.fa5fb045.png",
+        "deliveryType": "",
+        "website": ""
     },
     {
         "itemTitle": "Pizza Lobo $100 Gift Card",
-        "itemDescription": "A $100 gift card to Pizza Lobo's locations in Andersonville and Logan Square.",
+        "itemDescription": "A $100 gift card to Pizza Lobo, a neighborhood tavern and slice shop with locations in Andersonville and Logan Square. They feature grab-and-go pizza and a lengthy bar menu plus a 4,000-square-foot patio.",
         "itemImage": "/static/media/pizza-lobo-prize.e3e1047b.png",
         "deliveryType": "Will be delivered through email.",
         "website": "https://www.pizzalobo.com/"
     },
     {
-        "itemTitle": "Sin Titulo Tote Bag",
-        "itemDescription": "Tote bag filled with Sin Titulo goodies!",
-        "itemImage": "/static/media/sin-titulo-prize.9ccb3a42.png",
-        "deliveryType": "Must be picked up in-person.",
-        "website": "https://www.sintituloshop.com"
-    },
-    {
-        "itemTitle": "Soap Distillery $25 Gift Card",
-        "itemDescription": "A $25 gift card to Soap Distillery. Soap Distillery creates quality body and home goods with a focus on responsibly made, refined aromas in eco-forward packaging solutions. Every move we make is one made with intention. From sustainably sourced ingredients, to responsible manufacturing processes, to fully compostable packaging, we are committed to offering quality, planet-friendly goods.",
-        "itemImage": "/static/media/soap-distillery-prize.a9febb69.png",
+        "itemTitle": "Play Time Sessions Certificate",
+        "itemDescription": "Enjoy 3 complimenntary playtime sessions (2 hours per session) at Purple Monkey Playroom, a welcoming indoor playspace designed for little ones to explore, learn, and play in a fun and interactive environment.",
+        "itemImage": "/static/media/pmp-prize.68fce618.png",
         "deliveryType": "Will be delivered through email.",
-        "website": "https://www.soapdistillery.com"
+        "website": "https://www.purplemonkeyplayroom.com/"
     },
     {
-        "itemTitle": "Spa Soak $250 Gift Card",
-        "itemDescription": "A $250 gift card to Spa Soak, a full service spa located in the Bucktown/Wicker Park neighborhood. We provide a full range of treatments; each custom blended and tailored to your needs using the highest quality essential oils, plant extracts, vitamins and minerals.",
-        "itemImage": "/static/media/spa-soak-prize.9ee78fb1.png",
-        "deliveryType": "Will be delivered through email.",
-        "website": "https://www.spasoakchicago.com/"
-    },
-    {
-        "itemTitle": "Squeaky Beas Gift Basket (Valued at $100)",
-        "itemDescription": "A gift basket from Sqeaky Beas that includes (1) Primal Freeze Dried Turkey Topper, (1) Weruva Low Me Tender can (1) Acana Silicone Lid Saver (1) Green Coast Pets Chicken Chips (1) The Woff Beef Love Nuggets (1) Braided Bully From Bully Bundles (1) FabDog Giraffe Faball (1) Greenline Pet Poo Bag Roll.",
-        "itemImage": "/static/media/squeaky-beas-prize.1d3b9cea.png",
+        "itemTitle": "Ponnopozz Art Print Bundle",
+        "itemDescription": "",
+        "itemImage": "/static/media/no-image.fa5fb045.png",
         "deliveryType": "Must be picked up in-person.",
-        "website": "https://www.squeakybeas.com"
+        "website": "https://ponnopozz.com/"
     },
     {
-        "itemTitle": "Sukha Sanctuary Aromatherapy Gift Set",
-        "itemDescription": "You don’t have to look further for the perfect gift for your bestie! This gift set comes boxed & pretty with our signature blends including Sukha (rose, rose quartz & patchouli), Karma (citrus, moonstone & rosemary) and Dewdrop (vanilla, aquamarine & sandalwood). A fresh stick of palo santo is included along with our branded sticker. Let the giving begin (or a little self-love doesn’t hurt either)!",
-        "itemImage": "/static/media/sukha-sanctuary-prize.0e64d4cc.png",
+        "itemTitle": "Reformer Pilates Classes Gift Voucher",
+        "itemDescription": "A gift voucher for 5 pilates reformer classes from Logan Square Pilates. You will move through a system of challenging exercises lying face down, face up, sitting and standing on the reformer while working with spring loaded weight and props.",
+        "itemImage": "/static/media/lsp-reformer-prize.23626ef5.png",
+        "deliveryType": "Must be picked up in-person.",
+        "website": "https://www.logansquarepilates.com/"
+    },
+    {
+        "itemTitle": "Squeaky Bea's Gift Bundle (Valued at $125)",
+        "itemDescription": "This thoughtfully curated basket includes some delectable full sized faves plus lots more surprises. Expect to find nutritious foods, minimal ingredient snacks in an array of proteins, chews + dental health essentials including a fillable chew toy + more. Basket is valued over $100 and includes a $25 gift card to the Treat-o-Shack. ",
+        "itemImage": "/static/media/no-image.fa5fb045.png",
+        "deliveryType": "Must be picked up in-person.",
+        "website": "https://www.squeakybeas.com/"
+    },
+    {
+        "itemTitle": "Sukha Sanctuary Fragrance Bundle",
+        "itemDescription": "This fragrance trio of locally made crystal sprays will delight the senses! Clean beauty that is mild enough for everyday use includes: Karma Crystal Spray blended with citrus, rosemary & lavender infused with moonstones. Sukha Crystal Spray blended with rose, patchouli & lavender infused with rose quartz. Dewdrop Crystal Spray blended with vanilla, sandalwood, clary sage & geranium infused with aquamarine. Make sure you give the bottle a good shake so the crystals blend the oils for the best aromatic experience. Follow our small apothecary and newest projects on Instagram @sukhasanctuary.",
+        "itemImage": "/static/media/sukha-sanctuary-prize.e48b23db.png",
         "deliveryType": "Must be picked up in-person.",
         "website": "https://www.mysukhasanctuary.com/"
     },
     {
-        "itemTitle": "The Colette Collection $50 Gift Card ",
-        "itemDescription": "A $50 gift card to The Colette Collection. This boutique features styles from up-and-coming fashion brands to deliver the highest quality at reasonable prices. Two people have a chance to win this prize!",
-        "itemImage": "/static/media/colette-collection-prize.6f265fe6.png",
+        "itemTitle": "Therapeutic Massage (Valued at $120)",
+        "itemDescription": "Indulge in a personalized 60-minute therapeutic massage from Spa Soak, designed to alleviate muscle tension, enhance circulation, and promote overall relaxation. This session combines various techniques tailored to your specific needs, ensuring a rejuvenating experience that restores balance to both body and mind.",
+        "itemImage": "/static/media/spa-soak-massage-prize.9ee78fb1.png",
         "deliveryType": "Will be delivered through email.",
-        "website": "https://www.thecolettecollection.com"
+        "website": "https://www.spasoakchicago.com/"
     },
     {
-        "itemTitle": "The Refilleri $50 Gift Card",
-        "itemDescription": "A $50 e-gift card to The Refilleri. Specializing in lifestyle, personal care, bulk foods, and home goods, they bring you high quality items with little impact to the Earth. All items in the store are compostable, refillable or reusable!",
-        "itemImage": "/static/media/the-refilleri-prize.801991bb.png",
+        "itemTitle": "Weekday Studio Rental (Valued at $350)",
+        "itemDescription": "Enjoy a two hour weekday studio rental at The Studio Chicago! The winner can bring in a photographer to take family photos or whatever their needs may be!",
+        "itemImage": "/static/media/the-studio-chicago-prize.b434c325.png",
         "deliveryType": "Will be delivered through email.",
-        "website": "https://refilleri.com"
+        "website": "https://thestudiochi.com/"
     },
     {
-        "itemTitle": "Unbothered Foods Crackers Variety Pack and Charcutiere Board",
-        "itemDescription": "Variety Pack of sourdough crackers in flavors Garlic, Sea Salt, and Cheddar & Chive, along with a curated Charcuterie board for 6-10 people.",
-        "itemImage": "/static/media/unbothered-foods-prize.2569528e.png",
+        "itemTitle": "Women and Children First $25 Gift Card & Book Bundle",
+        "itemDescription": "A $25 gift card to Women & Children First and a book bundle (3 books) donated by the store. All the books in the book bundle are written by women. Women & Children First feeatures a variety of inclusive genres. Gift card must be used in person at the store.",
+        "itemImage": "/static/media/wcf-prize.235364ec.png",
         "deliveryType": "Must be picked up in-person.",
-        "website": "https://unbotheredfoods.com"
-    },
-    {
-        "itemTitle": "Vietfive Coffee Kit",
-        "itemDescription": "A coffee kit with a roast of winner's choice, tumbler, phin brewer, and sweetened condensed milk. Value at $60. Roast Types for Winner to Choose From: (1) Early Heaven - Medium Roast, (2) Sacred Waters - Light Roast, (3) People & Boats - Dark Roast.",
-        "itemImage": "/static/media/vietfive-coffee-prize.f101a144.png",
-        "deliveryType": "Must be picked up in-person.",
-        "website": "https://vietfive.com"
+        "website": "https://www.womenandchildrenfirst.com/"
     }
 ]
