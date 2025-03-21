@@ -1,93 +1,30 @@
 [
     {
-        "name": "Andrea Price Pottery",
-        "description": "Andrea Price is a potter who has 'played in the clay' for nearly 30 years. Today, she operates out of her home studio in Atlanta, GA and produces microwave, oven, and dishwasher safe pottery for boutique stores and custom requests.",
-        "logo": "/static/media/andrea-price-pottery-logo.58ed7caa.png",
-        "altLogo": "Andrea Price Pottery",
-        "owner": "/static/media/andrea-price-pottery-owner.236c0e47.png",
-        "altOwner": "Andrea Price", 
-        "website": "https://www.instagram.com/andreamartinprice/"
-    },
-    {
-        "name": "Big Shoulders Yoga",
-        "description": "Founded by Nicolette Downs, Big Shoulders Yoga is the only exclusively Hatha yoga studio in Chicago. It's their goal to empower and support each student through their unique yoga practice. Classes are held daily in their West Town studio and online—plus, members have access to a library of recorded classes.",
-        "logo": "/static/media/big-shoulders-yoga-logo.60396f7b.png",
-        "altLogo": "Big Shoulders Yoga Logo",
-        "owner": "/static/media/big-shoulders-yoga-owner.0ba6efc6.png",
-        "altOwner": "Nicolette Downs", 
-        "website": "https://www.bigshouldersyoga.com/"
-    },
-    {
-        "name": "Black Luxe Candle Co.",
-        "description": "Black Luxe Candle Co. is a Black-owned candle store. They offer their own candle products and instructor-led candle making classes for you to customize your own scent. Black Luxe Candle Co. founder and CEO, Brittany Taylor, is a caring and compassionate self-care advocate. Brittany’s handmade candles are a response to the stresses and cares of life that change our moods and affect how we move.",
-        "logo": "/static/media/black-luxe-candle-logo.bcacdbf7.png",
-        "altLogo": "Black Luxe Candle Co. Logo",
-        "owner": "/static/media/black-luxe-candle-owner.f533ca55.png", 
-        "altOwner": "Brittany Taylor",
-        "website": "https://blackluxecandles.com/"
-    },
-    {
-        "name": "Bon Femmes",
-        "description": "The Bon Femmes online shop was opened in 2019. Owner Omotola Akinbiyi wants to support artists by going beyond a screen and bringing their creations into your home. The growing Bon Femmes collection features art, home decor, beauty products and more all created by women! And most exciting, a percentage of sales is donated to women led charities dedicated to helping our community.",
-        "logo": "data:image/png;base64,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",
-        "altLogo": "Bon Femmes Logo",
-        "owner": "/static/media/bon-femmes-owner.d5be9f5d.png", 
-        "altOwner": "Omotola Akinbiyi",
-        "website": "https://bonfemmes.com/"
-    },
-    {
-        "name": "Chicago State University Athletics",
-        "description": "Chicago State University Athletics is a NCAA Division 1 member and a part of the NEC Conference. The Athletic Department is led by Dr. Monique Carroll, who has 15 years of experience within Collegiate Athletics. Chicago State sponsors 16 Division 1 sports with over 150 athletes competing in soccer, volleyball, basketball, track & field, cross country, tennis, golf and triathlon.",
-        "logo": "/static/media/chicago-statue-university-logo.fa05633d.png",
-        "altLogo": "Chicago State University Athletics Logo",
-        "owner": "/static/media/chicago-state-university-athletics-director.44b1ac8a.png", 
-        "altOwner": "Dr. Monique Carroll",
-        "website": "https://www.gocsucougars.com/"
-    },
-    {
-        "name": "Demera",
-        "description": "Demera’s Chef & Owner, Tigist Reda, was born and raised in Ethiopia and has lived in Chicago for the past 20+ years. She learned the secrets of traditional Ethiopian cuisine from the elder women in her family, by helping them to prepare family meals and banquets. As an adult, Tigist discovered that she had a passion for entertaining guests and for sharing her culture. This inspired her to open Demera and begin serving authentic Ethiopian cuisine to the public.",
-        "logo": "/static/media/demera-logo.ec317c9c.png",
-        "altLogo": "Demera Logo",
-        "owner": "/static/media/demera-owner.0a37e00a.png", 
-        "altOwner": "Tigist Reda",
-        "website": "https://www.demerachicago.com/"
-    },
-    {
         "name": "Kendra Scott",
-        "description": "Founded in 2002, Kendra Scott provides products that are thoughtfully crafted in their Austin, Texas studio, pushing the boundaries of design and innovation while staying true to our principles: color, shape, material, and value. This company also hopes to provide quality jewelry with natural gemstones at an afforadbale price.",
+        "description": "Kendra Scott is a renowned fashion-lifestyle brand founded in 2002 by designer Kendra Scott. Celebrated for its vibrant use of color and signature silhouettes, the company offers a wide array of jewelry, including necklaces, earrings, bracelets, and rings, as well as home décor and beauty products. With a strong commitment to family, fashion, and philanthropy, Kendra Scott has grown into a billion-dollar brand with a significant e-commerce presence and over 100 standalone retail stores across 36 states.",
         "logo": "/static/media/kendra-scott-logo.48389ba7.png",
         "altLogo": "Kendra Scott Logo",
-        "owner": "/static/media/kendra-scott-owner.a3cd2486.png", 
-        "altOwner": "Kendra Scott",
+        "owner": "/static/media/kendra-scott-owner.a3cd2486.png",
+        "altOwner": "Kendra Scott", 
         "website": "https://www.kendrascott.com/"
     },
     {
-        "name": "Mom n' Pop Hospitality",
-        "description": "Fiya, Geraldines Cafe, and Jerry's Sandwiches were founded by Mindy Friedler and Mark Bires. The pair have harbored a fantasy about bringing the laid-back atmosphere and diverse dishes they enjoy in Tel Aviv and Jaffa to Chicago. Fiya offers various Levantine and related cuisines. Geraldines Cafe offers a serious coffee & tea program paired with in-house, scratch baking and cooking, warm, and fun atmosphere. Jerry's Sandwiches offers Zingerman’s, Parisian bar sandwiches, Tel Aviv Sephardic goodness, Mexico City hipster fare, and odd restaurant concoctions.",
-        "logo": "/static/media/momnpop-hospitality-logo.e59e23ce.png",
-        "altLogo": "Mom n' Pop Hospitality Logos",
-        "owner": "/static/media/momnpop-hospitality-owner.0024021a.png", 
-        "altOwner": "Owners of Mom n' Pop Hospitality",
-        "website": "https://www.momnpophospitality.com/"
+        "name": "Latavya Solutions LLC",
+        "description": "Latavya Solutions LLC is a life-changing coaching service provided by a certified life coach. Our mission is to empower individuals to unlock their full potential, overcome challenges, and achieve their dreams. We believe that coaching is a transformative process that can help individuals gain clarity, set goals, and take action towards a more fulfilling life. This company is owned by Publicis Sapient's very own Srikanth Jagannath.",
+        "logo": "/static/media/latavya-solutions-llc-logo.0b1b955e.jpeg",
+        "altLogo": "Latavya Solutions LLC Logo",
+        "owner": "/static/media/latavya-solutions-llc-owner.29136235.jpeg", 
+        "altOwner": "Srikanth Jagannath",
+        "website": "https://www.linkedin.com/in/sjaganna/"
     },
     {
-        "name": "On Leave Experiences",
-        "description": "After spending 15+ years in the corporate and agency worlds right here in Chicago, Liz Coffey founded On Leave Experiences in early 2024 to empower women to be their truest selves. What On Leave offers is NOT a cookie-cutter approach to self-care! In their signature offering, they look at travel and experiences through the lens of a life coach and build hyper-personalized itineraries based on what will set your unique soul on fire. Liz is certified as a life/professional coach herself.",
-        "logo": "/static/media/on-leave-experiences-logo.64346faf.png",
-        "altLogo": "On Leave Experiences Logo",
-        "owner": "/static/media/on-leave-experiences-owner.6cfbfa5e.png", 
-        "altOwner": "Liz Coffey",
-        "website": "https://www.onleaveexperiences.com/"
-    }, 
-    {
-        "name": "Overflow Candle Co.",
-        "description": "Overflow Candle Co. is a female-founded company based in the Edgewater neighborhood of Chicago. Founded by Denise Howes, they use premium ingredients, such as phthalate-free fragrance and coconut soy wax, to make their candles in a way which prioritizes sustainability practices.",
-        "logo": "/static/media/overflow-candle-logo.0eea3aa1.png",
-        "altLogo": "Overflow Candle Co. Logo",
-        "owner": "/static/media/overflow-candle-owner.9fb3c6ee.png", 
-        "altOwner": "Denise Howes",
-        "website": "https://www.overflowcandleco.com/"
+        "name": "Logan Sqaure Pilates",
+        "description": "Logan Square Pilates was co-founded by Kristi Wood and Chelsea Hanson in 2016. This company aims to ignite confidence and vitality in our community through the principal teachings of Pilates: concentration, control, center, position, breath and fluidity.",
+        "logo": "/static/media/lsp-logo.0adce313.png",
+        "altLogo": "Logan Sqaure Pilates Logo",
+        "owner": "/static/media/lsp-owner.25c1f1e3.png", 
+        "altOwner": "Owners of Logan Square Pilates",
+        "website": "https://www.logansquarepilates.com/"
     },
     {
         "name": "Pizza Lobo",
@@ -99,93 +36,66 @@
         "website": "https://www.pizzalobo.com/"
     },
     {
-        "name": "Sin Titulo",
-        "description": "Founded by Irais Elizarraraz, Diana Elizarraraz and Itzel Elizarraraz, Sin Titulo is a collective of Latinas with a brand objective of curating designs and conversations that they stand behind. The brand began in August 2020 and they bring authentic, unfiltered, real designs to the apparel market. In May 2022, they began implementing mental health discussions with topics they didn't grow up having.",
-        "logo": "/static/media/sin-titulo-logo.74061e16.png",
-        "altLogo": "Sin Titulo Logo",
-        "owner": "/static/media/sin-titulo-owner.35fa9a4b.png", 
-        "altOwner": "Irais Elizarraraz, Diana Elizarraraz and Itzel Elizarraraz",
-        "website": "https://www.sintituloshop.com/"
+        "name": "Ponnopozz",
+        "description": "Founded by Adrianne Hawthorne, Ponnopozz is a vibrant Chicago-based art studio and shop founded by artist Adrianne Hawthorne, known for her bold, colorful, and abstract designs. The studio offers original artwork, prints, and curated goods, bringing joy and creativity to the local community.",
+        "logo": "/static/media/ponnopozz-logo.7d0f62d5.png",
+        "altLogo": "Ponnopozz Logo",
+        "owner": "/static/media/ponnopozz-owner.d1f179f7.png", 
+        "altOwner": "Adrianne Hawthorne",
+        "website": "https://ponnopozz.com/"
     },
     {
-        "name": "Soap Distillery",
-        "description": "Soap Distillery was born from a need to see product and owner diversity within the natural body care world. Their founder, Danielle Martin, had a vision to create the fun and sustainable cocktail, beverage, plant, and travel themed products that we have been known for since 2012. Since then, they have been steadily driven to mindfully manufacture everything they create and to continuously improve upon their message of sustainability as it relates both to their products and their facility.",
-        "logo": "/static/media/soap-distillery-logo.5303f47c.png",
-        "altLogo": "Soap Distillery Logo",
-        "owner": "/static/media/soap-distillery-owner.7fd8cbf8.png", 
-        "altOwner": "Danielle Martin",
-        "website": "https://soapdistillery.com/"
+        "name": "Purple Monkey Playroom",
+        "description": "Founded by Jessica Roubitchek, Purple Monkey Playroom is a beloved indoor play space in Chicago, offering a safe, engaging, and imaginative setting for young children and their caregivers. Known for its open play sessions, enriching classes, and award-winning birthday parties, it’s a go-to destination for family fun!",
+        "logo": "/static/media/pmp-logo.aecb936c.png",
+        "altLogo": "Purple Monkey Playroom Logo",
+        "owner": "/static/media/pmp-owner.aff55f5e.png", 
+        "altOwner": "Jessica Roubitchek",
+        "website": "https://www.purplemonkeyplayroom.com/"
     },
     {
         "name": "Spa Soak",
-        "description": "Founded by Jennifer Stahler, Spa Soak is a full service spa  located in the Bucktown/Wicker Park neighborhood. We provide a full range of treatments; each custom blended and tailored to your needs using the highest quality essential oils, plant extracts, vitamins and minerals.",
+        "description": "Founded by Jennifer Stahler, Spa Soak is a full-service spa located in Chicago's Bucktown/Wicker Park neighborhood, offering a peaceful retreat since 2005. They provide a wide array of holistic treatments, including massage therapy, facials, body treatments, and nail services, all tailored to nurture the entire self. Their results-based approach incorporates high-quality essential oils, plant extracts, vitamins, and minerals for optimal outcomes.",
         "logo": "/static/media/spa-soak-logo.10eed4c5.png",
         "altLogo": "Spa Soak Logo",
-        "owner": "/static/media/spa-soak-owner.f1ab8c49.png", 
-        "altOwner": "Jennifer Stahler",
+        "owner": "/static/media/spa-soak-owner.f1ab8c49.png",
+        "altOwner": "Jennifer Stahler", 
         "website": "https://www.spasoakchicago.com/"
     },
     {
-        "name": "Squeaky Beas",
-        "description": "At Squeaky Bea's their number one priority is your pet's wellness and happiness. You'll find a thoughtfully curated selection of high quality holistic foods + treats, enrichment toys, natural grooming supplies, and everything else you might need for your dog or cat! They focus on woman-owned brands, sustainability and locally made products. Squeaky Bea's is owned by Michelle Fares.",
+        "name": "Squeaky Bea's",
+        "description": "Foundeed by Michelle Fares, Squeaky Bea's Treat-o-Shack is a vibrant pet boutique in Chicago's Logan Square neighborhood, offering a curated selection of holistic pet foods, eco-friendly toys, and accessories for dogs and cats. Emphasizing sustainable and women-owned brands, the shop provides a thoughtfully chosen range of products to enrich the lives of pets and their owners.",
         "logo": "/static/media/squeaky-beas-logo.80d3a2da.png",
-        "altLogo": "Squeaky Beas Logo",
+        "altLogo": "Squeaky Bea Logo",
         "owner": "/static/media/squeaky-beas-owner.6187118b.png", 
         "altOwner": "Michelle Fares",
-        "website": "https://www.squeakybeas.com/"
+        "website": "https://www.kendrascott.com/"
     },
     {
+        "name": "The Studio Chicago",
+        "description": "After 11 years in the creative space in Chicago, photographer and blogger Ali Stone founded The Studio Chicago. A collaboratiev space for Chicago creatives to meet, network, uplift and create together. Ali believes in collaboration over competition and looks forward to hosting and supporting creatives in Chicago and beyond. She can't wait to help you carry out your vision in The Studio.",
+        "logo": "/static/media/the-studio-chicago-logo.5c80b8c7.png",
+        "altLogo": "The Studio Chicago Logo",
+        "owner": "/static/media/the-studio-chicago-owner.4aa6006b.png", 
+        "altOwner": "Ali Stone",
+        "website": "https://thestudiochi.com/"
+    }, 
+    {
         "name": "Sukha Sanctuary",
-        "description": "At Sukha Sanctuary, I create handmade crystal infused plant-based sprays for everyday use. Every crystal has been cleansed to be rid of any unwanted energies & then carefully dropped into a special blend of amazing aromas, spring water, and rose petal witch hazel. My sprays are perfect for gift giving, yoga mat cleaners, odor reducers, or a way to unwind and create your own sanctuary. Each bottle has been handcrafted & cleansed in Chicago, IL by me, Chelsea.",
-        "logo": "/static/media/sukha-sanctuary-logo.c381cebc.png",
-        "altLogo": "Sukha Sanctuary Logo",
+        "description": "At Sukha Sanctuary, Chelsea creates handmade crystal infused plant-based sprays for everyday use. Every crystal has been cleansed to be rid of any unwanted energies & then carefully dropped into a special blend of amazing aromas, spring water, and rose petal witch hazel. My sprays are perfect for gift giving, yoga mat cleaners, odor reducers, or a way to unwind and create your own sanctuary. Each bottle has been handcrafted & cleansed in Chicago, IL by Chelsea.",
+        "logo": "/static/media/sukha-sanctuary-logo.c381cebc.png ",
+        "altLogo": "Sukha Sanctuary Logos",
         "owner": "/static/media/sukha-sanctuary-owner.211ae0f5.jpeg", 
         "altOwner": "Chelsea Renee",
         "website": "https://www.mysukhasanctuary.com/"
     },
     {
-        "name": "The Colette Collection",
-        "description": "After working a full-time retail management job and her side gig, Lauren Rubbelke decided to take the leap of faith and open a brick-and-mortar store. In April 2016, The Colette Collection proudly opened in Chicago's vibrant Lakeview East neighborhood. The online store and Lakeview boutique feature styles from up-and-coming fashion brands to deliver the highest quality at reasonable prices. Their boutique receives an array of new arrivals regularly, so you will always discover something special and amazing on every visit.",
-        "logo": "/static/media/colette-collection-logo.85a09385.png",
-        "altLogo": "The Colette Collection Logo",
-        "owner": "/static/media/colette-collection-owner.47994729.png", 
-        "altOwner": "Lauren Rubbelke",
-        "website": "https://www.thecolettecollection.com/"
-    },
-    {
-        "name": "The Refilleri",
-        "description": "Founded by Kelli Pelc, The Refilleri is a zero waste store in the Humboldt Park neighborhood in Chicago, IL. They offer refillable or zero waste solutions for a variety of products. Specializing in lifestyle, personal care, bulk foods, and home goods, they bring you high quality items with little impact to the Earth. All items in store are compostable, refillable or reusable!",
-        "logo": "/static/media/the-refilleri-logo.f8639f2e.png",
-        "altLogo": "The Refilleri Logo",
-        "owner": "/static/media/the-refilleri-owner.fd0d159d.png", 
-        "altOwner": "Kelli Pelc",
-        "website": "https://refilleri.com/"
-    },
-    {
-        "name": "Unbothered Foods",
-        "description": "Introducing Unbothered Foods, led by Morgan Murdock, a dedicated registered dietitian specializing in gastrointestinal health. Witnessing the struggles of individuals managing chronic gut conditions, Morgan founded Unbothered Foods to offer accessible, delicious options. Crafted with care, their 100% sourdough food products, starting with their latest cracker, aim to bring relief and satisfaction, ensuring every meal is enjoyed without worry. Join them in embracing a lifestyle where your belly feels happy and unbothered.",
-        "logo": "/static/media/unbothered-foods-logo.476eb4b2.png",
-        "altLogo": "Unbothered Foods Logo",
-        "owner": "/static/media/unbothered-foods-owner.5b572cce.png", 
-        "altOwner": "Morgan Murdock",
-        "website": "https://unbotheredfoods.com/"
-    },
-    {
-        "name": "Vietfive",
-        "description": "VietFive is a vertically integrated Vietnamese coffee brand that specializes in premium Robusta. It was founded by Tuan Huynh, an award-winning creative director and community organizer, based out of Chicago, Illinois. You can find their products in many grocery stores around Chicago and at their brick and mortar store on 1116 W Madison St. They sell Banh Mi, Coffee, and other Vietnamese-inspired food and drink options.",
-        "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWCAYAAAA8AXHiAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAPHRFWHRDb21tZW50AHhyOmQ6REFHQUxKOXAyZGs6MTksajo4ODYxMjU0ODkwNzE4MjUzMjkyLHQ6MjQwMzIzMjPxKaZiAAAE3mlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPHg6eG1wbWV0YSB4bWxuczp4PSdhZG9iZTpuczptZXRhLyc+CiAgICAgICAgPHJkZjpSREYgeG1sbnM6cmRmPSdodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjJz4KCiAgICAgICAgPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9JycKICAgICAgICB4bWxuczpkYz0naHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8nPgogICAgICAgIDxkYzp0aXRsZT4KICAgICAgICA8cmRmOkFsdD4KICAgICAgICA8cmRmOmxpIHhtbDpsYW5nPSd4LWRlZmF1bHQnPmxvZ28vb3duZXJzIC0gMTwvcmRmOmxpPgogICAgICAgIDwvcmRmOkFsdD4KICAgICAgICA8L2RjOnRpdGxlPgogICAgICAgIDwvcmRmOkRlc2NyaXB0aW9uPgoKICAgICAgICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0nJwogICAgICAgIHhtbG5zOkF0dHJpYj0naHR0cDovL25zLmF0dHJpYnV0aW9uLmNvbS9hZHMvMS4wLyc+CiAgICAgICAgPEF0dHJpYjpBZHM+CiAgICAgICAgPHJkZjpTZXE+CiAgICAgICAgPHJkZjpsaSByZGY6cGFyc2VUeXBlPSdSZXNvdXJjZSc+CiAgICAgICAgPEF0dHJpYjpDcmVhdGVkPjIwMjQtMDMtMjM8L0F0dHJpYjpDcmVhdGVkPgogICAgICAgIDxBdHRyaWI6RXh0SWQ+MDE1ZmEyNjktN2I0Ni00OTM5LWFlMWQtMDEzNjhlMTJlZDljPC9BdHRyaWI6RXh0SWQ+CiAgICAgICAgPEF0dHJpYjpGYklkPjUyNTI2NTkxNDE3OTU4MDwvQXR0cmliOkZiSWQ+CiAgICAgICAgPEF0dHJpYjpUb3VjaFR5cGU+MjwvQXR0cmliOlRvdWNoVHlwZT4KICAgICAgICA8L3JkZjpsaT4KICAgICAgICA8L3JkZjpTZXE+CiAgICAgICAgPC9BdHRyaWI6QWRzPgogICAgICAgIDwvcmRmOkRlc2NyaXB0aW9uPgoKICAgICAgICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0nJwogICAgICAgIHhtbG5zOnBkZj0naHR0cDovL25zLmFkb2JlLmNvbS9wZGYvMS4zLyc+CiAgICAgICAgPHBkZjpBdXRob3I+SmlsbDwvcGRmOkF1dGhvcj4KICAgICAgICA8L3JkZjpEZXNjcmlwdGlvbj4KCiAgICAgICAgPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9JycKICAgICAgICB4bWxuczp4bXA9J2h0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8nPgogICAgICAgIDx4bXA6Q3JlYXRvclRvb2w+Q2FudmE8L3htcDpDcmVhdG9yVG9vbD4KICAgICAgICA8L3JkZjpEZXNjcmlwdGlvbj4KICAgICAgICAKICAgICAgICA8L3JkZjpSREY+CiAgICAgICAgPC94OnhtcG1ldGE+AZ3+jAAAGHxJREFUeJztnXmUHcV97z/V3XefhRmNBu0LSCAQILHIGGNWI/IIWMAzOBg9WRgjct57Cd4gm5eQxAE78sIBhBPb2NhgFBxCwGxhMSAJDFjIFtaGJCS0b6PRbHfv7qr8UaPR3Hv7zghmGnk09TkHjqZvV3d197d/VfWr+v1aKKUUBsMgYx3pChiOToywDKFghGUIBSMsQygYYRlCwQjLEApGWIZQMMIyhIIRliEUjLAMoWCEZQgFIyxDKBhhGULBCMsQCkZYhlAwwjKEghGWIRSMsAyhYIRlCAUjLEMoGGEZQsEIyxAKRliGUDDCMoSCEZYhFIywDKFghGUIBSMsQygYYRlCwQjLEApGWIZQMMIyhIIRliEUjLAMoTC8hWWyZIbG8BWWUngr3zvStThqGb7CAlS+qK2WlEe6Kkcdw1ZYypfIvR34W/bhrd1xpKtz1OEc6QocMYoecss+3HQePB8xogYrGYeYA7aFsG2wRGmZg30yqVC+BM9HuR4oEELo/YUAx4KIrY8xTBm+wgLsk8bjzJiE6sphJeOodA7VUoR4VIstFkEko3hrt4OvQKDFowBfonIuoBCJGKIuDvEowrEAAVJiTx1zZC/wCDJshaVcH3mgC9nSgdVUh6hPIuqT+reiBwVX/7szi8oUIR7BqklocTkOItpt0XyF3N2G3N6KaEghWzpRvsQ+deIRvLojz7AVFgLsSc2ooodoqCn9KepAVN8aUZsg0lRHbuETRD/1UezjjgXHRlgWoFCeBF/i54o4Z03Be3sL3rK12FNGH4GL+uNh+Aqr6GKNrEO1ZRDxSD/7esi2NHJHK+QKKAUq70LRRdgWKlPA37CLyMenYTXVgesjt7XAjEkfyqX8MTIshCVbu5Cb9iDGjsBqrkM4Nv76XahcEeuYVL/llVTg+fjv7MCPOFD0IOpg1SagLok80IXKFfHe2oTyfC3U6LC4tVUZNlfvb9+PZQlwPVTeRe5tR+WKqM4cyvURtQlEMoZIxRDJGMQjenRoWQhLIGri+Jv2gGXhb9yN6swiUnG9ff1OsASFxcsAiHziNJzTj9ODAdcHz4dYBKsueYTvwofHkBKW8qW2PA3ayqgDaaxJzcj39kLEwWqux9/RijWiFqu5vqecqE9inzweb8Um1LFpsCwtingUb90O5J42Xb42gXI9ZEsnQkqoSWA11WE11+O+sQG5pw1n+ni8P2xB2BbW5GMR8QiqPQO2pfteyRg4FrKlA+/traiuLNg21sSmEmEpX6L2tiOa6pDbWhDxKKI2gdzdhmiqReWKUPSxJzdXuj2GAENKWOSKZG5/hMQXLsd99neIY48hft3Hyf3gOazmeiIXTid3zzPYk5tJ3Tmvp5hwbJyTxkG2oK1QTRwsC3ypO9mi20WVySNbOrXwAGv8CEQyjlKSyAXTIZ3HGtOAPXUMoiaBPakJlXeJzJ4BUQeRjKE6srrZ3LQXVfQBhd1cj338qJJLkRt3k771AVL/dD25u59CtWdJ/cs8cvc9iz1zMv6abURmTsaa2ISwhp4/bGgJC4WIOVijGlAFD+fEsVCTIHL2VD2yExb2caNA+oGl7ZmTKTy8FPu0iYhkHFGfQDg2CAtLKRjdcMhNIPVUj3J9yLvEF8xG1MQRieih2rR24b+zUzezTbUoBHZzPUqA/84uRNTB376f6MWnVThL7RPHYI2o1f6yuiRyXwfWpGZEXQLn+GPxV2/Dnj5BvwBDkCFXa5UtojqyxK79GPmfvYy/bvthlxW2RXTOLPy3NkG2gDqQRqUL4PsoKbW33LJ0s4bSI79MHtWeQXXlUHvakTsOoLpy2knq+YiGFPaU0VgTm7EnNUMiimrLgGNhTx9P5OMnYY06JqAyunmzRjXgfOxE7ckveLhL1iDqkkT/ZCa5+/4burKDc+M+ZIacsAAo6g64UAronkYR+p/+xl3at1QFqz5F9KqzcX+7EZUp6A52Vw5cXx/Xl5ArovIeeBLZmQPfx4pFEPVJPaqsSyIitv67oQZrdIMuDyjPR+7rQG5vxV+/k8hZxwfWQ7Z0IFu78Pe1Y9XEEY6FKrhEzpuOPWMSIhEDe+j1rQ4ihtKne5Xn472xAWtMAxT1A3TOOQHV0gkRGxwbf+UWrIkjtSOzr2Pli7jL1oHnY08cCREHEY/gb2vBW7EZ0VCD1VSL3NVG/MaLeyyMLqy0CyJbQHXlUa6HiEeQm/fibW/BGt1I9OMnlZYpQ7Z24f12I/aJY/A378U6JoU1YSSqI4t1/LF4b22CfBHn3JMQ9tB7/4eUsMJAZfLafZDOY08aicoWka2d4EmwLWR7hujsGd19LtXtrihqa5ct6GbPtiBXQIxuxJk2tk9BDReGvbAOIvd34a3eihACMbYRAXqiueii8i6qLYNqSyNb0yhfIqI21og6RGMN9phGrKmjhvVqhnKMsAJQvkRlClAoQqHbQuVdcGys2gSiqRYR62caaJhjhGUIhaHXKzQMCYywDKFghGUIBSMsQygYYRlCwQhrEFGur6eEDB+CsJTCW7ud/A+f10tSjka6o6q7rl1I55w7KPxiqV5PNYwJz4+lFN7aHeQXPUvx+ZVQdLGnjSP1vRtwpk84aqY9VLZA7p5nyP/015Ap6I1CIBpTxK47j/i8C7DGjjiylTwChCIsf90Oct/7FcUX3oaypkHUJ0ktnE/0sjMG+7QfLkrh/W4zmb/6Of6GXVV3i15/HjXfmnfUvEiHy4CbQuVL5J72Q6ZfKbzV2yi+vLpCVACqI4v39paBnnbwUAqVyVN89nfkH17afwYaBbI9Q+afH6Xz2oV9iso5dxqp268bdqKCD7qCVClUroj75kYKv1iC++tV2KdOpOauG7EnNxO75hys5nrSt/0MtbuttCiUrEc/UijXx9+0h8IvX8N9cjlyTzuRS2YQv+48vbarCrI9Tddnvoe/5tACQwXEPnsh3kurkLsOgFRYU0ZTc8+CkhWnw4n3JyylkC2dFJ96i8IvXyu5uf7vN9N59bdJ3TmX6GVnELlgOqk75pL+3L0lh9BryZsGo+4DovjY62T+6ud6KUw3qnuxYF+orhz+u3tKtgkgccPFWF+9hsJ/vUnhF0upufvzWCPrBr/iQ4T3JSzZmSP9xfvxXl2nX9My1IEu0l/6CQ3nn4yoSQQ2hdiWXnFZBVX09Dr0DxCZoqSEdB5Rm+i3+fG37S8RFYA4nHN2xxgGIZIx4nPPJz73/H4qqvR1RiP9Crlk/4hT9b6ogtvn71UP7fpQcHWAySDyvvpYVn2SmoU3EJt7PlSrSNFD7mkHQLalK34W8Yh+8GWogov78irSC+4j/+ArqO7cCYeFUsgdreQWPkHndd/DfWlV3/4kBfTlDlCqO2+WquxzVc2npQ4tBjz4X9Au+zvJ/fB50jfdh7dyc999uu4WIv/vr9J10yIKj72us9v03iVfpPjiH0jftIj8Q0t03onDQPkSb/U2Ml/5KV0L7sNbt2NQMxy+7z6WNbaR5D/PJXrZmWRufQBZ1odC6iQZ9pTRqP1dlQeoTSBivU7rS7yV75G79xnc7g6/++o6/I27SN52dU+ijkCUXjteePR1Cj9/BbmzFYD0LT8mfssVxOdfFBg+r1wPv3vf3ni/f4+uzy8qOUHk8rOIf+qcQ+fb2x5orTNfW4xIxXr+FrEIqXtu0tYXbe3dZ1eQ/9EL+Ot1h99bs43U7dcRufzM0uXHSuFv20/xyeUUHn0duUk3vd7rG/A37CJxyxUQdfDe3EDuB8/hvbYOpMJ9bT1yyz4SX/wkoq7y5e059ua95H/8IoXH34R0Xt+zmxaR+sfP4Fx0SndeioHxgTrvwrKInHcS9pnHI596q6LisqVTm+/WSmFZDTU6TRAgd7SSXfg4xWdWQL6XhSp6FH6+RMfafWc+Il7ZAZYdWYq/+i2F+3+tI5R7V6EzR+5bjyG37iPx1/8bq5c4leeTu+tJ3P/+fcUx1b4O3BfePrQhESVx21U9f3prt5P+8gOB98T7zTslf8du/IResqwU7m/Wk134OP7vSi2Uaukk/ZUHSHbliF9/nm6+pSJ//4vkf/RC5UtbcMn/4DnwJP7OVl1Xt1ez7Hrk738RUCS/8WdlF6fwt++n8NBSCo+8hjpQ+mzktv2kb7mfxG1XEvvMeQNeyPjB4wqFwJk+HrdCWKBaOrTA2jOVxZrqekZKMp3D39ZSKqqe4yj89TtRBa9EWMr1KD61gvy/Poe/to/QL8+n8OAS5PZWau67WTe/UpH7/pPkFz0b3FSVEb/5Upxp4wDw1+8kveA+1Pb9/ZazJo4k8eU5OhmbUsidrai97cFNTb6Iv65XRkEBzqwpiKdXQLmwupF723FmHof70qpSYQFIhb+rtJxs7aLw8FLyv1iK2nmgar1VZ5bsN/8DuesAiVuv0ll3PiADsnn21DHgVK7z9ne1oXylw6rKT9hUqzuZgDNtHHUPfpHUwvnB3mnHrohQkVtbyNz2s1JRRR1inz63Ih0RgLt0DbJDx+blH3ylb1F1R0mL2gT2jEkkbp4NQiD3d9J1473IHX2IqjvEnqhD8pvXH7KSQhC79mPUPvIVbcWSscqyTq9rFAJn5mRqH/hL4l+eE9ykRRwSN88m9e15gccTjl0iYvf5t8ktfKJEVKI2QexzF1c+v4KH+/JqVCZf/VoPgwFFQtvHNSNq4zpSpRdyR6uOIk5XVs5qrCkZuYiaOLE/OxfvD1spPPhKWe3s7uDRXsfuzFV2ni2L6NVnY584luwdj5aNRkV3lj2IXjqTyNknAIrcXU9RfHpF6elOn0zq25/VoWB1CUR3rgWRjJG6Z4E+/64DZP7fv1X0s2p++H91wKoQWGXh9AiBPWEkiS9cgffaup4+Vs/Pjk358NA6JkXi5kvxlq3FW/5u6fEietQcu/qj5O95psL9gWOVjIplZ7bSWkYdkrdeiWrtovir5aW/WZa2tgNgQMKyxjQi6lOVwtrTpvNzBghLVHOOBjUTtlU5fM4VKjvPrkf264t1x7p8NCjoEac1ugFGN4BSgSNTkYphTW7usag925MxImccB4DfEJz2yJ7c3H9qSCmDR6tRJ9jtoFSgy0ZEuq2MEATNyAmn7LHmK0fAKp2j89rv4L+7u/K8Qff9fTKgplAkY4GBobK1C1X0dIKM8hOOqzIhG3QDncoLVNlipQh9if/u7sqmN+oQufwsHVVcRuDI2ip906vVs8ID0XeJQ3h+ZZ+IXkIp52DuiHJ6Cz+oWS87XuBKi4KnuxNl7gnRWEP00pk9A6wPysCSggiBPX287kT2QnXldBxeeefdElijGwMPpfyAG9idn6qEXICwyqvVVEfs2nOIXX8+1rgRPUP+sjNWbrJEv01AUPi+6PX/fsv2J5Te+/uywm8FlF5PkLDKug8qwGKVY50whvjc84nOmYVorD08Z3EfDDjbjH3CGH0hvS2O6+Nvb0FlC6U7xyIlQ/8SgixWgEmW+WJVE2GfPJ74DRcRveIs7UnuSyQB4lRC9GuxhOsFS+hwnoMvUUFe+2pDe18igoQYdQ7Vs5ql74XKVhGWJYhceAqx+RcROXeaHgUO0oT5wIU1dTQkoj2ONkAn09i8r9LM1sR1prwggm54kKUpeFQoKxYh9Z35xObMGlDaH2FZ/QpEFj26U5H0oODwHojvB15nkJ9O768CPeklTt/AprDssQbMYojGGuoe/5ueAcdgM2AXqz1hJCJVNr3j+/hb91XsK+pTOuNdAMoNnlcsv2hVdCt0JWIRbTkPV1RK6dwMFRXs32JRrLRYwhKHabGqdMarvWxSBr9wvfZXQdNL5U1hMUBYDTV6MUBIS3oGLCxRE9eq741U+BsrRxtWY02lCEELJaAvgWVVNlkBb7DqzJL50k/IP7hEz0/25/xUBM/3eTo9Up+UN+8H63k4D0jKYGFVawoPfgGjfPPOgzm6AuYyoUJY5CvvmXxvL+nPL6L4/EqdTmCQ13sOfFJICOxTJlRsLvEmH9y1saZ0nrA3AX0Jf802Co+/WdpXq7KywF+7g+zfPUTHJbeTveNRnUEmqH/SU6DyRrovr6Zr3l0UnlyunaoBN1tmAoTlSwoPLwucaSgtHDw5XVi8DG/1tgoRKRUsxMJPX6Jjzp3kH3yl0vLaVqkrRangl1Yq3JdWkb5pEZ1X3kn+/hf1gs1B+mDVoART2CeOqXQLlAdORBycGZOqNldBnVq58wCZL/yErvl3463a2r2x7zdL7esg/2/P03H5N0n/5Y9wX11X+darKktfpMJ7YwOZ//9DOj/1bdylayv3CfJIK0X+X58jPe8u/XmUKm+/quLHcl9dR+eVd5L92sOlFlMGN50A8t3dZL/6cMl8rDWmkeTXriU+78LS81Z5GfWPeroq+w+/pONP/4ns3z+is0AfxpRXXwyKsJzTJ/cdMJCKkbjtSuILZlfZQVV3yEX0NMnBC41cOhPn/JOrDtF7yBVxl6wh/+MXKxyECvSAoxoRB2fauEoPOuh5zip+J//dPRQe/U31ZsW2Sqdveh83pbMt9xaSiEd1Utxqfq6D1MaJzbuA2v+4jfhNl5SsskAI4vMvwj55fL9OT9XSSfGp5bqVGGAY2+AEUyiFv7WF3N1PU3zyrZIHKZrqSH7tGqJXnV09M51SeL9/j8zfPnRoDtC2sE+dSOLmS4nMPq1iItp9eTW5Rc/ir9xS0V8SI+uIXnwq0U+fi3PGcYF+LLl9P7l7n6HwxPISK2RNaCJx61VErzizwgMPet1Y/kcvkLv3mZ6oHFGXwLngFOI3XIRz5vFVr1MVXAqLXyX33ScO+fhScaKzZxD/80uxp4+v8KOprhzukjUUFi/DXbHpUCRQ9z1yzjmRxJc/iXPmlD59T6o9Q+GxN8j/9CXklrKBlRBYk0YS/eQsYledjXX8qAH7sQY1Skf5EnfpGnILn8BftRVrcjPJb84lel7faRMPIne3kb3jP/Hf2UFs3oVE58zq88sRKlug+PTBNU47sSY1E50zi9iVH9HZk/t7Qz0f7zfryd39NN6qrcQuO534l+ZgT+h7tKQ8n+KTy8l9/0mc048j/tkLdd7QQEdseWGFu2wd2X/5L0RjDYk//xOcs6f2W1YVPbyV71F45DXcl1YhjkmR+Iv/RfSKWe9riYvc00Zh8asUFi9DtnRinzqB2KfPJTp7ho5FGKRRYijhX7ItTfFXy3E+eoJOmf0+OJiG0WqsObyLVCDbunT66hPHfqCbIzuyyE17tMU43IekFHJvh07CdjiCKj9na5f+Esb7DLZQUiLf24uoTWKNrD88N0fFQXQLI3e04sycPOjLksEkXjOEhMndYAgFIyxDKBhhGULBCMsQCkZYhlAYYl//qoKUh6YghKichAXt0T44AA5YNVGxjyUqp5/KlwoHHUf2CmgVQNBHBXqfp1p9hzhDXljKl2S/sZjiY2+AEEQvO53Udz9Xso/c30nnnDt6Pk+S+v6N+jMmvY/j+XRd912dj0IIEl+9piJUXu7toOPib2hRpGLUPnALTtkEfP6hJeS+9Z8AiAkjqX/26xXe9Mzt/07x0ddBQHTOR0jd8X+G5Mcu+2LICwtfIrfvh9oEiQWXYh9fuQZftXYhWzpxTp2It3wTskpsncoWscaNIHr1R3FOmxSwg0Klc0QvOwPnI1ODs+a4HiqdJ/4Xf4o9vinYf5n3UK5P/KZLcD4y9YM5Of/IGfrC6sZqqiW+4JI+97FPGqe/qtUHqj2Dt3Iz9knVZwz87fsh5hD5xGlVDgL+6m16iXC1WQBf4q/Z1meClKHM0de4DxTHRqQSlSFUvRCxCCKV6LtvlIr3HekigGT8qP0mz1FjseSuNjJfX4zTPalairYa7m839hur5Zw6kZrvzO9TNLFrziE294LqBxHdy2sKnu6PVbFaIhENXtd/FDD0heVYOGdNQbZ04q14t3QtUjdi1DE4s6ag2jPYMycFN3NCYE8Z1T2JXeVcERv7lAmBofwHsZpqsU+ZgP/OjsC4SgBrXCP2tLH4G3bqOMvy6IyjgKNiElrJXstvbSt4tYHXnYNdiKrJLlTR079XW1jXnQAtKKdEzy5+rwCIKudSnn/IbWFZ1c83hDkqhGX448N03g2hYIRlCAUjLEMoGGEZQsEIyxAKRliGUDDCMoSCEZYhFIywDKFghGUIBSMsQygYYRlCwQjLEApGWIZQMMIyhIIRliEUjLAMoWCEZQgFIyxDKBhhGULBCMsQCkZYhlAwwjKEghGWIRSMsAyhYIRlCAUjLEMoGGEZQsEIyxAKRliGUDDCMoSCEZYhFIywDKFghGUIBSMsQygYYRlCwQjLEApGWIZQMMIyhIIRliEUjLAMoWCEZQgFIyxDKBhhGULBCMsQCkZYhlAwwjKEwv8AgHtvi1eESmgAAAAASUVORK5CYII=",
-        "altLogo": "Vietfive Logo",
-        "owner": "/static/media/vietfive-coffee-owner.0a592bfc.png", 
-        "altOwner": "Tuan Huynh",
-        "website": "https://vietfive.com/"
-    },
-    {
-        "name": "Vosges Chocolate",
-        "description": "Founded by Katrina Markoff in 1998, Vosges Haut-Chocolat is a Chicago-based luxury chocolate factory that offers varieties flavored with spices, bacon, and other ingredients. Markoff also created the Wild Ophelia brand to offer natural, non-GMO Americana chocolates.",
-        "logo": "/static/media/vosges-logo.7926002f.png",
-        "altLogo": "Vosges Chocolat Logo",
-        "owner": "/static/media/vosges-owner.e8d3d3dd.png", 
-        "altOwner": "Katrina Markoff",
-        "website": "https://www.vosgeschocolate.com/"
+        "name": "Women and Children First",
+        "description": "Founded in 1979 by Ann Christophersen and Linda Bubon, Women & Children First believes in the transformative power of literature. As intersectional trans-inclusive feminists, they believe books are tools for liberation. Since 1979, they have celebrated and amplified underrepresented voices. In order for feminism to remain relevant, it must be forever evolving.",
+        "logo": "/static/media/wcf-logo.c9604afa.png",
+        "altLogo": "Women and Children First Logo",
+        "owner": "/static/media/wcf-owners.3c77de64.png", 
+        "altOwner": "Ann Christophersen and Linda Bubon",
+        "website": "https://www.womenandchildrenfirst.com/"
     }
 ]

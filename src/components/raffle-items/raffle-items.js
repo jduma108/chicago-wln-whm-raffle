@@ -7,12 +7,12 @@ import latavyaPrize from '../../assets/raffle-items/latavya-solutions-llc-prize.
 import lspMatPrize from '../../assets/raffle-items/lsp-mat-prize.png';
 import lspReformerPrize from '../../assets/raffle-items/lsp-reformer-prize.png';
 import pizzaLoboPrize from '../../assets/raffle-items/pizza-lobo-prize.png';
-import pmp from '../../assets/raffle-items/pmp-prize.png';
+import pmpPrize from '../../assets/raffle-items/pmp-prize.png';
 import spaSoakFacial from '../../assets/raffle-items/spa-soak-facial-prize.png';
 import spaSoakMassage from '../../assets/raffle-items/spa-soak-massage-prize.png';
 import sukhaSanctuaryPrize from '../../assets/raffle-items/sukha-sanctuary-prize.png';
 import thStudioChicagoPrize from '../../assets/raffle-items/the-studio-chicago-prize.png';
-import wcf from '../../assets/raffle-items/wcf-prize.png';
+import wcfPrize from '../../assets/raffle-items/wcf-prize.png';
 
 
 const RaffleItems = () => (
@@ -41,12 +41,12 @@ const RaffleItems = () => (
             <img src={lspMatPrize} alt="item" className={styles.itemPic}/>
             <img src={lspReformerPrize} alt="item" className={styles.itemPic}/>
             <img src={pizzaLoboPrize} alt="item" className={styles.itemPic}/>
-            <img src={pmp} alt="item" className={styles.itemPic}/>
+            <img src={pmpPrize} alt="item" className={styles.itemPic}/>
             <img src={spaSoakFacial} alt="item" className={styles.itemPic}/>
             <img src={spaSoakMassage} alt="item" className={styles.itemPic}/>
             <img src={sukhaSanctuaryPrize} alt="item" className={styles.itemPic}/>
             <img src={thStudioChicagoPrize} alt="item" className={styles.itemPic}/>
-            <img src={wcf} alt="item" className={styles.itemPic}/>
+            <img src={wcfPrize} alt="item" className={styles.itemPic}/>
         </div>
     </div>
 );
