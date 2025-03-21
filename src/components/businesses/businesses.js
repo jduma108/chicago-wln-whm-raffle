@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './businesses.module.css';
-import businessInfo from '../../data/businessInfo.json';
+import businesses from '../../data/businesses.json';
 import andreaPriceLogo from '../../assets/logos/andrea-price-pottery-logo.png';
 import bsYogaLogo from '../../assets/logos/big-shoulders-yoga-logo.png';
 import blackLuxeCandleLogo from '../../assets/logos/black-luxe-candle-logo.png';
@@ -50,7 +50,7 @@ const Businesses = () => (
         <hr/>
         <h2>Below are the businesses who donated to our raffle or businesses WLN purchased raffle prizes from. Click on the name of each business to learn more about what they do!</h2>
         <div className={styles.itemWrapper}>
-            {businessInfo.map((info, index) => (
+            {businesses.map((info, index) => (
                 <a href={info.website} target="_blank" rel="noreferrer" key={index} className={styles.item}>
                     <div className={styles.itemGroupImg}>
                         <img 

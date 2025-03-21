@@ -1,6 +1,6 @@
 import React from 'react';
-import styles from './auctionItems.module.css';
-import auctionItemData from '../../data/auctionItems.json';
+import styles from './raffle-items.module.css';
+import raffleItems from '../../data/raffle-items.json';
 import noImage from '../../assets/no-image.png';
 import andreaPricePotteryPrize from '../../assets/raffleItems/andrea-price-pottery-prize.png';
 import bsYogaPrize from '../../assets/raffleItems/big-shoulders-yoga-prize.png';
@@ -24,13 +24,13 @@ import unbotheredFoodsPrize from '../../assets/raffleItems/unbothered-foods-priz
 import vietfivePrize from '../../assets/raffleItems/vietfive-coffee-prize.png';
 import vosgesPrize from '../../assets/raffleItems/vosges-prize.png';
 
-const AuctionItems = () => (
-    <div className={styles.auctionItemsWrapper}>
+const RaffleItems = () => (
+    <div className={styles.raffleItemsWrapper}>
         <h1>RAFFLE ITEMS</h1>
         <hr/>
         <div className={styles.itemContainer}>
             {
-                auctionItemData.map((item) => (
+                raffleItems.map((item) => (
                     <div className={styles.item} key={item.itemTitle}>
                         <a href="https://form.jotform.com/240744412784155" target="_blank" rel="noreferrer">
                             <img src={item.itemImage} alt={item.itemTitle} className={styles.itemPic}/>
@@ -75,4 +75,4 @@ const AuctionItems = () => (
     </div>
 );
 
-export default AuctionItems;
+export default RaffleItems;

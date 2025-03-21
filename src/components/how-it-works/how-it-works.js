@@ -2,7 +2,7 @@ import React from 'react';
 import browseIcon from '../../assets/browse.png';
 import raffleIcon from '../../assets/raffle.png';
 import learnIcon from '../../assets/learn.png';
-import styles from './howItWorks.module.css';
+import styles from './how-it-works.module.css';
 
 const HowItWorks = () => (
     <div className={styles.howItWorksWrapper}>

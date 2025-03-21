@@ -1,4 +1,4 @@
-.auctionItemsWrapper {
+.raffleItemsWrapper {
     display: block;
     overflow: auto;
     background-color: #2aa7df;
@@ -7,14 +7,14 @@
     padding: 4% 6%;
 }
 
-.auctionItemsWrapper h1 {
+.raffleItemsWrapper h1 {
     font-size: 60px;
     font-weight: 300;
     letter-spacing: 4px;
     text-align: center;
 }
 
-.auctionItemsWrapper hr {
+.raffleItemsWrapper hr {
     width: 8%;
     border: 2px solid white;
 }
@@ -98,7 +98,7 @@
 }
 
 @media screen and (max-width: 800px) {
-    .auctionItemsWrapper h1 {
+    .raffleItemsWrapper h1 {
         font-size: 48px;
     }
     .itemContainer {
@@ -113,13 +113,13 @@
 }
 
 @media screen and (max-width: 550px) {
-    .auctionItemsWrapper {
+    .raffleItemsWrapper {
         padding: 8% 6%;
     }
-    .auctionItemsWrapper h1 {
+    .raffleItemsWrapper h1 {
         font-size: 32px;
     }
-    .auctionItemsWrapper hr {
+    .raffleItemsWrapper hr {
         width: 15%;
     }
 }
