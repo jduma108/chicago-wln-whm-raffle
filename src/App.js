@@ -1,7 +1,7 @@
 import Landing from './components/landing/landing';
 import Overview from './components/overview/overview';
-import HowItWorks from './components/howItWorks/howItWorks';
-import AuctionItems from './components/auctionItems/auctionItems';
+import HowItWorks from './components/how-it-works/how-it-works';
+import RaffleItems from './components/raffle-items/raffle-items';
 import Organizations from './components/organizations/organizations';
 import Businesses from './components/businesses/businesses';
 import Footer from './components/footer/footer';
@@ -14,7 +14,7 @@ function App() {
       <Landing/>
       <Overview/>
       <HowItWorks/>
-      <AuctionItems/>
+      <RaffleItems/>
       <Organizations/>
       <Businesses/>
       <Footer/>

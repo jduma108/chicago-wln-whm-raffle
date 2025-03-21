@@ -1,0 +1,101 @@
+[
+    {
+        "name": "Kendra Scott",
+        "description": "Kendra Scott is a renowned fashion-lifestyle brand founded in 2002 by designer Kendra Scott. Celebrated for its vibrant use of color and signature silhouettes, the company offers a wide array of jewelry, including necklaces, earrings, bracelets, and rings, as well as home décor and beauty products. With a strong commitment to family, fashion, and philanthropy, Kendra Scott has grown into a billion-dollar brand with a significant e-commerce presence and over 100 standalone retail stores across 36 states.",
+        "logo": "/static/media/kendra-scott-logo.48389ba7.png",
+        "altLogo": "Kendra Scott Logo",
+        "owner": "/static/media/kendra-scott-owner.a3cd2486.png",
+        "altOwner": "Kendra Scott", 
+        "website": "https://www.kendrascott.com/"
+    },
+    {
+        "name": "Latavya Solutions LLC",
+        "description": "Latavya Solutions LLC is a life-changing coaching service provided by a certified life coach. Our mission is to empower individuals to unlock their full potential, overcome challenges, and achieve their dreams. We believe that coaching is a transformative process that can help individuals gain clarity, set goals, and take action towards a more fulfilling life. This company is owned by Publicis Sapient's very own Srikanth Jagannath.",
+        "logo": "/static/media/latavya-solutions-llc-logo.0b1b955e.jpeg",
+        "altLogo": "Latavya Solutions LLC Logo",
+        "owner": "/static/media/latavya-solutions-llc-owner.29136235.jpeg", 
+        "altOwner": "Srikanth Jagannath",
+        "website": "https://www.linkedin.com/in/sjaganna/"
+    },
+    {
+        "name": "Logan Sqaure Pilates",
+        "description": "Logan Square Pilates was co-founded by Kristi Wood and Chelsea Hanson in 2016. This company aims to ignite confidence and vitality in our community through the principal teachings of Pilates: concentration, control, center, position, breath and fluidity.",
+        "logo": "/static/media/lsp-logo.0adce313.png",
+        "altLogo": "Logan Sqaure Pilates Logo",
+        "owner": "/static/media/lsp-owner.25c1f1e3.png", 
+        "altOwner": "Owners of Logan Square Pilates",
+        "website": "https://www.logansquarepilates.com/"
+    },
+    {
+        "name": "Pizza Lobo",
+        "description": "Founded by Dan Snowden, Matt Eisler and Kevin Heisner, Pizza Lobo is an old school tavern and patio serving craft cocktails, local beers on draft and NY-style pizza by the slice in Logan Square and Andersonville. Now, the stand-alone concept is taking on an identity of its own, thanks to a roster of top-notch pies garnished with everything from grapes and broccoli rabe to hot honey and 'nduja.",
+        "logo": "/static/media/pizza-lobo-logo.426d6951.png",
+        "altLogo": "Pizza Lobo Logo",
+        "owner": "/static/media/pizza-lobo-owner.06235d6d.png",
+        "altOwner": "Dan Snowden, Matt Eisler and Kevin Heisner",
+        "website": "https://www.pizzalobo.com/"
+    },
+    {
+        "name": "Ponnopozz",
+        "description": "Founded by Adrianne Hawthorne, Ponnopozz is a vibrant Chicago-based art studio and shop founded by artist Adrianne Hawthorne, known for her bold, colorful, and abstract designs. The studio offers original artwork, prints, and curated goods, bringing joy and creativity to the local community.",
+        "logo": "/static/media/ponnopozz-logo.7d0f62d5.png",
+        "altLogo": "Ponnopozz Logo",
+        "owner": "/static/media/ponnopozz-owner.d1f179f7.png", 
+        "altOwner": "Adrianne Hawthorne",
+        "website": "https://ponnopozz.com/"
+    },
+    {
+        "name": "Purple Monkey Playroom",
+        "description": "Founded by Jessica Roubitchek, Purple Monkey Playroom is a beloved indoor play space in Chicago, offering a safe, engaging, and imaginative setting for young children and their caregivers. Known for its open play sessions, enriching classes, and award-winning birthday parties, it’s a go-to destination for family fun!",
+        "logo": "/static/media/pmp-logo.aecb936c.png",
+        "altLogo": "Purple Monkey Playroom Logo",
+        "owner": "/static/media/pmp-owner.aff55f5e.png", 
+        "altOwner": "Jessica Roubitchek",
+        "website": "https://www.purplemonkeyplayroom.com/"
+    },
+    {
+        "name": "Spa Soak",
+        "description": "Founded by Jennifer Stahler, Spa Soak is a full-service spa located in Chicago's Bucktown/Wicker Park neighborhood, offering a peaceful retreat since 2005. They provide a wide array of holistic treatments, including massage therapy, facials, body treatments, and nail services, all tailored to nurture the entire self. Their results-based approach incorporates high-quality essential oils, plant extracts, vitamins, and minerals for optimal outcomes.",
+        "logo": "/static/media/spa-soak-logo.10eed4c5.png",
+        "altLogo": "Spa Soak Logo",
+        "owner": "/static/media/spa-soak-owner.f1ab8c49.png",
+        "altOwner": "Jennifer Stahler", 
+        "website": "https://www.spasoakchicago.com/"
+    },
+    {
+        "name": "Squeaky Bea's",
+        "description": "Foundeed by Michelle Fares, Squeaky Bea's Treat-o-Shack is a vibrant pet boutique in Chicago's Logan Square neighborhood, offering a curated selection of holistic pet foods, eco-friendly toys, and accessories for dogs and cats. Emphasizing sustainable and women-owned brands, the shop provides a thoughtfully chosen range of products to enrich the lives of pets and their owners.",
+        "logo": "/static/media/squeaky-beas-logo.80d3a2da.png",
+        "altLogo": "Squeaky Bea Logo",
+        "owner": "/static/media/squeaky-beas-owner.6187118b.png", 
+        "altOwner": "Michelle Fares",
+        "website": "https://www.kendrascott.com/"
+    },
+    {
+        "name": "The Studio Chicago",
+        "description": "After 11 years in the creative space in Chicago, photographer and blogger Ali Stone founded The Studio Chicago. A collaboratiev space for Chicago creatives to meet, network, uplift and create together. Ali believes in collaboration over competition and looks forward to hosting and supporting creatives in Chicago and beyond. She can't wait to help you carry out your vision in The Studio.",
+        "logo": "/static/media/the-studio-chicago-logo.5c80b8c7.png",
+        "altLogo": "The Studio Chicago Logo",
+        "owner": "/static/media/the-studio-chicago-owner.4aa6006b.png", 
+        "altOwner": "Ali Stone",
+        "website": "https://thestudiochi.com/"
+    }, 
+    {
+        "name": "Sukha Sanctuary",
+        "description": "At Sukha Sanctuary, Chelsea creates handmade crystal infused plant-based sprays for everyday use. Every crystal has been cleansed to be rid of any unwanted energies & then carefully dropped into a special blend of amazing aromas, spring water, and rose petal witch hazel. My sprays are perfect for gift giving, yoga mat cleaners, odor reducers, or a way to unwind and create your own sanctuary. Each bottle has been handcrafted & cleansed in Chicago, IL by Chelsea.",
+        "logo": "/static/media/sukha-sanctuary-logo.c381cebc.png ",
+        "altLogo": "Sukha Sanctuary Logos",
+        "owner": "/static/media/sukha-sanctuary-owner.211ae0f5.jpeg", 
+        "altOwner": "Chelsea Renee",
+        "website": "https://www.mysukhasanctuary.com/"
+    },
+    {
+        "name": "Women and Children First",
+        "description": "Founded in 1979 by Ann Christophersen and Linda Bubon, Women & Children First believes in the transformative power of literature. As intersectional trans-inclusive feminists, they believe books are tools for liberation. Since 1979, they have celebrated and amplified underrepresented voices. In order for feminism to remain relevant, it must be forever evolving.",
+        "logo": "/static/media/wcf-logo.c9604afa.png",
+        "altLogo": "Women and Children First Logo",
+        "owner": "/static/media/wcf-owners.3c77de64.png", 
+        "altOwner": "Ann Christophersen and Linda Bubon",
+        "website": "https://www.womenandchildrenfirst.com/"
+    }
+]
