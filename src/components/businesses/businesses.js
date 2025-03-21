@@ -69,7 +69,7 @@ const Businesses = () => (
             ))}
         </div>
         <h4>Chicago WLN Raffle Committee Members:</h4>
-        <h4>Ciera deCourcy, Jillian Duma, Sophie Lancaster, Sabrina Ruiz, Bob Lewandowski, Layna Lu, Jessie Price, John Webb and Kaitlyn Wu</h4>
+        <h4>Ciera deCourcy, Jillian Duma, Sophie Lancaster, Sabrina Ruiz, Jessie Price, Megan Gilard annd Quinn Sheehan</h4>
         <div className={styles.hiddenImages}>
             <img src={andreaPriceLogo} alt="item" className={styles.itemPic}/>
             <img src={bsYogaLogo} alt="item" className={styles.itemPic}/>

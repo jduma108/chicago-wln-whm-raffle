@@ -7,7 +7,7 @@ const Landing = () => (
     <Fade left cascade>
         <div className={styles.landingWrapper}>
             <img className={styles.logo} src={wlnLogo} alt="wln-logo"/>
-            <h2>2024 Women's History Month</h2>
+            <h2>2025 Women's History Month</h2>
             <h1>VIRTUAL RAFFLE</h1>
         </div>
     </Fade>

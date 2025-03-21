@@ -34,13 +34,13 @@ const HowItWorks = () => (
             <ul>
                 <li>When filling out the raffle form, you will need to provide your full name, work email, and number of tickets you will purchase for each item.</li>
                 <li>1 ticket is $3. You may purchase as many tickets as you want and distribute them how you want. For example, 10 tickets is $30. You can contribute 5 tickets to one item and 5 tickets to another item.</li>
-                <li>After filling out the raffle form, please Venmo Sophie Lancaster <span className={styles.bold}>@Sophie-Lancaster</span> and include the following message: <span className={styles.bold}>Chicago WLN Raffle Event 2024 - [insert your name].</span></li>
+                <li>After filling out the raffle form, please Venmo Sophie Lancaster <span className={styles.bold}>@Sophie-Lancaster</span> and include the following message: <span className={styles.bold}>Chicago WLN Raffle Event 2025 - [insert your name].</span></li>
                 <li>Please make sure the name you enter in the raffle form matches the name you send in your Venmo message.</li>
                 <li>When the event closes, the Chicago WLN Raffle Committee Members will randomly pick the winner for each raffle item.</li>
                 <li>Winners will be contacted by email about where to send the raffle item.</li>
             </ul>
         </div>
-        <h2 className={styles.raffleDates}>RAFFLE EVENT OPEN FROM MARCH 25 - APRIL 2</h2>
+        <h2 className={styles.raffleDates}>RAFFLE EVENT OPEN FROM MARCH 24 - MARCH 28</h2>
     </div>
 );
 
