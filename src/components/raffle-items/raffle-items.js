@@ -23,7 +23,7 @@ const RaffleItems = () => (
             {
                 raffleItems.map((item) => (
                     <div className={styles.item} key={item.itemTitle}>
-                        <a href="https://form.jotform.com/240744412784155" target="_blank" rel="noreferrer">
+                        <a href="https://form.jotform.com/250790629299168" target="_blank" rel="noreferrer">
                             <img src={item.itemImage} alt={item.itemTitle} className={styles.itemPic}/>
                         </a>
                         <h3>{item.itemTitle}</h3>

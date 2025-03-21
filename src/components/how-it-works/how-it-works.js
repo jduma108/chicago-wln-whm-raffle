@@ -25,7 +25,7 @@ const HowItWorks = () => (
                 <p>Learn more about the local businesses that donated raffle items and Girls Inc of Chicago.</p>
             </div>
         </div>
-        <a href="https://form.jotform.com/240744412784155" rel="noreferrer" target="_blank">
+        <a href="https://form.jotform.com/250790629299168" rel="noreferrer" target="_blank">
             <button className={styles.button}>CLICK HERE TO BUY TICKETS</button>
         </a>
         <hr className={styles.fullWidthHr}/>
